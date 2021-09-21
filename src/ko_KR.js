@@ -28,5 +28,14 @@ export default {
         "passwordResetCodeIncorrect": "확인 코드가 맞지 않습니다. 다시 확인해주세요!",
         "passwordResetCodeTimeout": "시간이 초과되었습니다. 다시 시도해주세요!",
         "noReply": "본 메일은 발신전용입니다.."
+    },
+    puzzle:{
+        db: "데이터베이스",
+        usersAndUserGroups: "소비자 권리",
+        users: "사용자",
+        userGroupsPermission: "액세스 권한, 권한",
+    },
+    common:{
+        logout:"출구",
     }
 }

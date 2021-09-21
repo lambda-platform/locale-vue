@@ -31,8 +31,8 @@ export default {
     },
     puzzle:{
         db:"Database",
-        userAndUserGroup:"User, User group",
-        users:"User",
+        usersAndUserGroups:"User, User group",
+        users:"Users",
         userGroupsPermission:"User groups, Permissions",
     },
     common:{

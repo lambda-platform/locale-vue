@@ -34,8 +34,11 @@ export default {
         usersAndUserGroups:"ХЭРЭГЛЭГЧ, ХАНДАХ ЭРХ",
         users:"Хэрэглэгчид",
         userGroupsPermission:"Хандах эрх, Зөвшөөрөл",
+        sendDBSchema:"Өгөгдлийн сангийн бүтцийг илгээх",
     },
     common:{
         logout:"Гарах",
-    }
+        cancel:"Болих",
+    },
+    
 }

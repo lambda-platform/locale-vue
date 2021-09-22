@@ -34,8 +34,10 @@ export default {
         usersAndUserGroups: "소비자 권리",
         users: "사용자",
         userGroupsPermission: "액세스 권한, 권한",
+        sendDBSchema:"데이터베이스 스키마 보내기",
     },
     common:{
         logout:"출구",
+        cancel:"아파요",
     }
 }

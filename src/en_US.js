@@ -34,8 +34,10 @@ export default {
         usersAndUserGroups:"User, User group",
         users:"Users",
         userGroupsPermission:"User groups, Permissions",
+        sendDBSchema:"Send Database schema",
     },
     common:{
         logout:"Logout",
+        cancel:"Cancel",
     }
 }

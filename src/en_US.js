@@ -103,6 +103,16 @@ export default {
         "theValueIsRegistered": "The value is registered",
         "possibleTableView": 'Possible "table" and "view"',
         "table": "Table",
+
+        "ascending": "Ascending",
+        "descending": "descending",
+        "dateAdded": "Date added",
+        "inPage": "in page",
+        "show": "Show",
+        "outOf": "total",
+        "fromUsers": "from users",
+        "showing": "showing",
+
         logout:"Logout",
         cancel:"Cancel",
     },

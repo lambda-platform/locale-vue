@@ -102,6 +102,16 @@ export default {
         "theValueIsRegistered": "값이 등록되었습니다",
         "possibleTableView": '가능한 "테이블" 및 "보기"',
         "table": "테이블",
+
+        "ascending": "오름차순",
+        "descending": "내림차순",
+        "dateAdded": "추가된 날짜",
+        "inPage": "인페이지",
+        "show": "보여 주다",
+        "outOf": "총",
+        "fromUsers": "사용자로부터",
+        "showing": "전시",
+
         logout:"출구",
         cancel:"아파요",
     },

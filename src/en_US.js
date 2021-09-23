@@ -1,6 +1,6 @@
 export default {
     locale: 'en-us',
-    agent:{
+    user:{
         "title": "Lambda Platform",
         "subtitle": "Lambda Platform",
         "login": "Login",
@@ -78,7 +78,7 @@ export default {
         "settings": "Settings",
         "logOut": "Log out",
         "pleaseSelectRole": "Please select a role",
-        "administraationRightsManagment": "ХАНДАХ ЭРХ УДИРДАХ",
+        "administraationRightsManagment": "Administration rights management",
         "additional": "ADDITIONAL",
         "dataSource": "Data source",
         "chart": "Chart",
@@ -101,16 +101,63 @@ export default {
         "sendDataStructure": "Send data structure",
         "pleaseReEnterYourPassword": "Please re-enter your password",
         "theValueIsRegistered": "The value is registered",
+        "possibleTableView": 'Possible "table" and "view"',
+        "table": "Table",
+        logout:"Logout",
+        cancel:"Cancel",
     },
-    puzzle:{
+    adminModule:{
         db:"Database",
         usersAndUserGroups:"User, User group",
         users:"Users",
         userGroupsPermission:"User groups, Permissions",
         sendDBSchema:"Send Database schema",
     },
-    common:{
-        logout:"Logout",
-        cancel:"Cancel",
-    }
+
+    appAdmin:{},
+    chart:{},
+    dataForm:{},
+    dataGrid:{},
+    dataSource:{
+        "database": "Database",
+        "add": "Add",
+        "view": "View",
+        "pleaseEnterSearchValue": "Please enter a search value",
+        "dataProcessing": "Data processing",
+        "characteristics": "Characteristics",
+        "basic": "Basic",
+        "column": "Column",
+        "name": "Name",
+        "additional": "Additional",
+        "filter": "Filter",
+        "data": "Data",
+        "save": "Save",
+        "tableList": "table list",
+        "aggregation": "Aggeration",
+        "sort": "Sort",
+        "use": "Use",
+        "grouping": "Grouping",
+        "type": "Type",
+        "alias": "Alias",
+        "select": "Select",
+    },
+    role:{
+        "administraationRightsManagment": "Administration rights management",
+        "add": "Add",
+        "pleaseSelectRole": "Please select role",
+        "additional": "Additional",
+        "dataSource": "Мэдээллийн эх Data source",
+        "userList": "User list",
+        "import": "Import",
+        "register": "Register",
+        "confirm": "Confirm",
+        "save": "Save",
+        "menuSelection": "Menu selection",
+        "possibleTableView": 'Possible "table" and "view"',
+        "table": "Table",
+    },
+    project:{
+
+    },
+
 }

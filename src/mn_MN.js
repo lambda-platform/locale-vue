@@ -79,6 +79,17 @@ export default {
         "passwordResetCodeTimeout": "Нууц үг сэргээх кодын хугацаа дууссан !!!",
         "noReply": "Энэхүү и-мэйл нь автоматаар илгээгдсэн учир хариу бичих шаардлагагүй.",
         "userList": "Хэрэглэгчдийн жагсаалт",
+        "sort": "Эрэмбэлэх",
+        "ascending": "өсөхөөр",
+        "descending": "Буурах",
+        "byLoginName": "Нэвтрэх нэрээр",
+        "dateAdded": "Нэмсэн огноо",
+        "inPage": "Хуудсанд",
+        "show": "харуулана",
+        "outOf": "Нийт",
+        "fromUsers": "хэрэглэгчдээс",
+        "showing": "харуулж байна",
+
 
         logout:"Гарах",
         cancel:"Болих",
@@ -88,8 +99,12 @@ export default {
         usersAndUserGroups:"ХЭРЭГЛЭГЧ, ХАНДАХ ЭРХ",
         users:"Хэрэглэгчид",
         userGroupsPermission:"Хандах эрх, Зөвшөөрөл",
+
+        manage_access_rights:"Хандах эрх удирдах",
+
         sendDBSchema:"Өгөгдлийн сангийн бүтцийг илгээх",
-        "database": "Өгөгдлийн сан",
+        database: "Өгөгдлийн сан",
+
     },
     appAdmin:{},
     chart:{},

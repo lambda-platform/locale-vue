@@ -103,6 +103,16 @@ export default {
         "theValueIsRegistered": "The value is registered",
         "possibleTableView": 'Possible "table" and "view"',
         "table": "Table",
+
+        "ascending": "Ascending",
+        "descending": "descending",
+        "dateAdded": "Date added",
+        "inPage": "in page",
+        "show": "Show",
+        "outOf": "total",
+        "fromUsers": "from users",
+        "showing": "showing",
+
         logout:"Logout",
         cancel:"Cancel",
     },
@@ -111,7 +121,9 @@ export default {
         usersAndUserGroups:"User, User group",
         users:"Users",
         userGroupsPermission:"User groups, Permissions",
+        manage_access_rights:"Manage access rights",
         sendDBSchema:"Send Database schema",
+
     },
 
     appAdmin:{},

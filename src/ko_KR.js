@@ -113,6 +113,10 @@ export default {
         "showing": "전시",
         "noInfo":"정보 없음 ",
 
+        "ruconfinfo": "직원 정보 검색에 자신이 있습니까?",
+        "ruconfinfoDelete": "직원 정보를 완전히 삭제하시겠습니까?",
+        "created": "만들어진",
+
         logout:"출구",
         cancel:"아파요",
     },

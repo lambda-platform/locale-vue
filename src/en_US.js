@@ -114,6 +114,10 @@ export default {
         "showing": "showing",
         "noInfo": "No information ",
 
+        "ruconfinfo": "Are you confident in retrieving employee information?",
+        "ruconfinfoDelete": "Are you sure you want to delete employee information completely?",
+        "created": "Created",
+
         logout:"Logout",
         cancel:"Cancel",
     },

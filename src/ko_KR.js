@@ -34,6 +34,7 @@ export default {
         usersAndUserGroups: "소비자 권리",
         users: "사용자",
         userGroupsPermission: "액세스 권한, 권한",
+        manage_access_rights:"접근 권한 관리",
     },
     common:{
         logout:"출구",

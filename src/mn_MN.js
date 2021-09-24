@@ -34,6 +34,7 @@ export default {
         usersAndUserGroups:"ХЭРЭГЛЭГЧ, ХАНДАХ ЭРХ",
         users:"Хэрэглэгчид",
         userGroupsPermission:"Хандах эрх, Зөвшөөрөл",
+        manage_access_rights:"Хандах эрх удирдах",
     },
     common:{
         logout:"Гарах",

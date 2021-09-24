@@ -34,6 +34,7 @@ export default {
         usersAndUserGroups:"User, User group",
         users:"Users",
         userGroupsPermission:"User groups, Permissions",
+        manage_access_rights:"Manage access rights",
     },
     common:{
         logout:"Logout",

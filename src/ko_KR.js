@@ -115,9 +115,8 @@ export default {
         "ruconfinfoDelete": "직원 정보를 완전히 삭제하시겠습니까?",
         "created": "만들어진",
         "userDeleted": "사용자가 삭제됨",
-
-        logout:"출구",
-        cancel:"아파요",
+        "logout":"출구",
+        "cancel":"아파요",
     },
     adminModule:{
         db: "데이터베이스",
@@ -164,8 +163,16 @@ export default {
     },
     role:{
         "administraationRightsManagment": "행정권 관리",
+        "welcome":"어서 오십시오!",
+        "loggedIn":"로그인",
+        "personalInfo":"개인 정보",
+        "changePass":"비밀번호 변경",
+        "superAdminManagement":"최고 관리자 관리",
+        "logout":"로그 아웃",
+        "pleaseWait":"잠시만 기다려주세요!",
         "add": "추가하다",
-        "pleaseSelectRole": "역할을 선택하세요.",
+        "pleaseSelectRole": "역할을 선택하세요?",
+        "role":"직장",
         "additional": "추가의",
         "dataSource": "데이터 소스",
         "userList": "사용자 목록",
@@ -176,6 +183,10 @@ export default {
         "menuSelection": "메뉴 선택",
         "possibleTableView": '가능한 "테이블" 및 "보기"',
         "table": "테이블",
+        "name": "이름",
+        "displayName": "외모 이름",
+        "note":"말",
+        "cancel":"아파요",
     },
     project:{
 

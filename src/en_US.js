@@ -112,6 +112,7 @@ export default {
         "outOf": "total",
         "fromUsers": "from users",
         "showing": "showing",
+        "noInfo": "No information ",
 
         logout:"Logout",
         cancel:"Cancel",
@@ -135,6 +136,10 @@ export default {
         "add": "Add",
         "view": "View",
         "pleaseEnterSearchValue": "Please enter a search value...",
+        "pleaseWait":"Please wait for a moment!",
+        "deleteData":"Delete data?",
+        "yes":"Yes",
+        "no":"No",
         "dataProcessing": "Data processing",
         "characteristics": "Characteristics",
         "basic": "Basic",

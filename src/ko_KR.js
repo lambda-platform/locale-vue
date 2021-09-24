@@ -111,6 +111,7 @@ export default {
         "outOf": "총",
         "fromUsers": "사용자로부터",
         "showing": "전시",
+        "noInfo":"정보 없음 ",
 
         logout:"출구",
         cancel:"아파요",
@@ -133,6 +134,10 @@ export default {
         "add": "추가하다",
         "view": "보다",
         "pleaseEnterSearchValue": "검색 값을 입력하십시오...",
+        "pleaseWait":"잠시만 기다려주세요!",
+        "deleteData":"데이터를 삭제하시겠습니까?",
+        "yes":"예",
+        "no":"아니요",
         "dataProcessing": "데이터 처리",
         "characteristics": "형질",
         "basic": "기초적인",

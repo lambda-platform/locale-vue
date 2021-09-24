@@ -99,12 +99,12 @@ export default {
         usersAndUserGroups:"ХЭРЭГЛЭГЧ, ХАНДАХ ЭРХ",
         users:"Хэрэглэгчид",
         userGroupsPermission:"Хандах эрх, Зөвшөөрөл",
-<<<<<<< HEAD
+
         manage_access_rights:"Хандах эрх удирдах",
-=======
+
         sendDBSchema:"Өгөгдлийн сангийн бүтцийг илгээх",
-        "database": "Өгөгдлийн сан",
->>>>>>> d827a10fc7dc74928c27ba7b51f0cd5312a34504
+        database: "Өгөгдлийн сан",
+
     },
     appAdmin:{},
     chart:{},

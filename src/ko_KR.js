@@ -120,9 +120,7 @@ export default {
         usersAndUserGroups: "소비자 권리",
         users: "사용자",
         userGroupsPermission: "액세스 권한, 권한",
-<<<<<<< HEAD
         manage_access_rights:"접근 권한 관리",
-=======
         sendDBSchema:"데이터베이스 스키마 보내기",
     },
 
@@ -170,6 +168,6 @@ export default {
     },
     project:{
 
->>>>>>> d827a10fc7dc74928c27ba7b51f0cd5312a34504
+
     },
 }

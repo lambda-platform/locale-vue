@@ -121,7 +121,7 @@ export default {
         "database": "데이터 베이스",
         "add": "추가하다",
         "view": "보다",
-        "pleaseEnterSearchValue": "검색 값을 입력하십시오",
+        "pleaseEnterSearchValue": "검색 값을 입력하십시오...",
         "dataProcessing": "데이터 처리",
         "characteristics": "형질",
         "basic": "기초적인",

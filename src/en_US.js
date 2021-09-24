@@ -122,7 +122,7 @@ export default {
         "database": "Database",
         "add": "Add",
         "view": "View",
-        "pleaseEnterSearchValue": "Please enter a search value",
+        "pleaseEnterSearchValue": "Please enter a search value...",
         "dataProcessing": "Data processing",
         "characteristics": "Characteristics",
         "basic": "Basic",

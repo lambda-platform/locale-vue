@@ -96,10 +96,10 @@ export default {
     dataForm:{},
     dataGrid:{},
     dataSource:{
-        "database": "Өгөгдлийн сан",
+        "database": "Өгөгдлийн сан ",
         "add": "Нэмэх",
         "view": "харах",
-        "pleaseEnterSearchValue": "Хайх утгаа оруулна уу",
+        "pleaseEnterSearchValue": "Хайх утгаа оруулна уу...",
         "dataProcessing": "Өгөгдөл боловсруулах",
         "characteristics": "Шинж чанар",
         "basic": "Үндсэн",

@@ -102,7 +102,6 @@ export default {
         "theValueIsRegistered": "값이 등록되었습니다",
         "possibleTableView": '가능한 "테이블" 및 "보기"',
         "table": "테이블",
-
         "ascending": "오름차순",
         "descending": "내림차순",
         "dateAdded": "추가된 날짜",
@@ -115,6 +114,8 @@ export default {
         "ruconfinfo": "직원 정보 검색에 자신이 있습니까?",
         "ruconfinfoDelete": "직원 정보를 완전히 삭제하시겠습니까?",
         "created": "만들어진",
+        "userDeleted": "사용자가 삭제됨",
+
         logout:"출구",
         cancel:"아파요",
     },

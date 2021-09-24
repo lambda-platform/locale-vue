@@ -103,7 +103,6 @@ export default {
         "theValueIsRegistered": "The value is registered",
         "possibleTableView": 'Possible "table" and "view"',
         "table": "Table",
-
         "ascending": "Ascending",
         "descending": "descending",
         "dateAdded": "Date added",
@@ -113,11 +112,10 @@ export default {
         "fromUsers": "from users",
         "showing": "showing",
         "noInfo": "No information ",
-
         "ruconfinfo": "Are you confident in retrieving employee information?",
         "ruconfinfoDelete": "Are you sure you want to delete employee information completely?",
         "created": "Created",
-
+        "userDeleted": "User deleted",
         logout:"Logout",
         cancel:"Cancel",
     },

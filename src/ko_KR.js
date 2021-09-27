@@ -104,6 +104,7 @@ export default {
         "table": "테이블",
         "ascending": "오름차순",
         "descending": "내림차순",
+        "byLoginName": "로그인 이름으로",
         "dateAdded": "추가된 날짜",
         "inPage": "인페이지",
         "show": "보여 주다",
@@ -119,6 +120,13 @@ export default {
         "cancel":"아파요",
         "listOfDeletedUsers": "삭제된 사용자 목록",
         "by": " ~에 의해",
+        "no":"아니요",
+        "yes":"예",
+        "completeDestruction": "전파",
+        "recovery": "회복",
+        "errorOccWhileDeleting": "삭제하는 동안 오류가 발생했습니다",
+        "userInformationRestored": "사용자 정보 복원",
+        "errorOccurredWhileRetrievingData": "데이터를 검색하는 동안 오류가 발생했습니다",
 
     },
     adminModule:{
@@ -217,15 +225,31 @@ export default {
         "name": "이름",
         "displayName": "외모 이름",
         "note":"말",
-        "cancel":"아파요",
+        "cancel":"취소",
     },
     project:{
 
 
     },
     puzzle:{
-        manage_access_rights:"접근 권한 관리",
-        data_recording_environment:"데이터 기록 환경",
-        form: "형태",
+        "manage_access_rights":"접근 권한 관리",
+        "data_recording_environment":"데이터 기록 환경",
+        "form": "형태",
+        "table": "테이블",
+        "form_and_table_consolidation": "양식 및 스프레드시트",
+        "data_processor": "데이터 프로세서",
+        "data_settings": "데이터 설정",
+        "chart": "차트",
+        "original_preparation": "원래 준비",
+        "report": "보고서",
+        "analysis": "분석",
+        "target_statement": "목표문",
+        "graphql_management": "Graphql 관리",
+        "usersAndUserGroups": "소비자 권리",
+        "users": "사용자",
+        "userGroupsPermission": "액세스 권한, 권한",
+        "menu_settings":"메뉴 설정",
+        "logOut": "로그 아웃",
+        "cancel":"취소",
     }
 }

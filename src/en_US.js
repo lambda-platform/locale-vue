@@ -118,6 +118,8 @@ export default {
         "userDeleted": "User deleted",
         "logout":"Logout",
         "cancel":"Cancel",
+        "listOfDeletedUsers": "List of deleted users",
+        "by": "by",
     },
     adminModule:{
         db:"Database",

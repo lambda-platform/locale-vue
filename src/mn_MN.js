@@ -100,6 +100,13 @@ export default {
         "by": " - аар",
         "no":"Үгүй",
         "yes":"Тийм",
+        "completeDestruction": "Бүр мөсөн устгах",
+        "recovery": "Сэргээх",
+        "errorOccWhileDeleting": "Устгах үед алдаа гарлаа",
+        "userInformationRestored": "Хэрэглэгчийн мэдээлэл сэргээгдлээ",
+        "errorOccurredWhileRetrievingData": "Мэдээлэл сэргээхэд алдаа гарлаа",
+
+
     },
     adminModule:{
         db:"Өгөгдлийн сан",

@@ -123,6 +123,11 @@ export default {
         "by": "by",
         "no": "no",
         "yes":"yes",
+        "completeDestruction": "Complete destruction",
+        "recovery": "Recovey",
+        "errorOccWhileDeleting": "An error occurred while deleting",
+        "userInformationRestored": "User information restored",
+        "errorOccurredWhileRetrievingData": "An error occurred while retrieving the data",
 
     },
     adminModule:{

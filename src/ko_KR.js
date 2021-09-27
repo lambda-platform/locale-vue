@@ -122,6 +122,11 @@ export default {
         "by": " ~에 의해",
         "no":"아니요",
         "yes":"예",
+        "completeDestruction": "전파",
+        "recovery": "회복",
+        "errorOccWhileDeleting": "삭제하는 동안 오류가 발생했습니다",
+        "userInformationRestored": "사용자 정보 복원",
+        "errorOccurredWhileRetrievingData": "데이터를 검색하는 동안 오류가 발생했습니다",
 
     },
     adminModule:{

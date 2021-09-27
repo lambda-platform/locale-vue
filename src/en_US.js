@@ -106,6 +106,7 @@ export default {
         "ascending": "Ascending",
         "descending": "descending",
         "dateAdded": "Date added",
+        "byLoginName": "by login name",
         "inPage": "in page",
         "show": "Show",
         "outOf": "total",

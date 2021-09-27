@@ -104,6 +104,7 @@ export default {
         "table": "테이블",
         "ascending": "오름차순",
         "descending": "내림차순",
+        "byLoginName": "로그인 이름으로",
         "dateAdded": "추가된 날짜",
         "inPage": "인페이지",
         "show": "보여 주다",

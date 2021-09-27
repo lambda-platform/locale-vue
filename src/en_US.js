@@ -140,6 +140,8 @@ export default {
         "additions":"Additions",
         "logistics":"Logistics",
         "AddColumn":"Add a column",
+    },
+    graphql:{
         "graphqlManagement":"Graphql management",
         "table":"Table",
         "selectTable":"Select a table",
@@ -150,8 +152,14 @@ export default {
         "add":"Add",
         "edit":"Edit",
         "delete":"Delete",
+        "save": "Save",
         "accessAndAccessRights":"Access and access rights",
         "nevtersenHundHaruulah":"Show it to anyone who has logged in.",
+        "accessRights":"Access rights",
+        "allUsersCanSee":"All users can see it if they are not authorized",
+        "subTables":"Sub-tables",
+        "subTable":"Sub-table",
+        "connectionField":"Connection field",
     },
     components:{
         "add": "Add",

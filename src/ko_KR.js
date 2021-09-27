@@ -139,6 +139,8 @@ export default {
         "additions":"추가 사항",
         "logistics":"물류 센터",
         "AddColumn":"열 추가",
+    },
+    graphql:{
         "graphqlManagement":"Graphql 관리",
         "table":"테이블",
         "selectTable":"테이블 선택",
@@ -149,8 +151,14 @@ export default {
         "add":"추가하다",
         "edit":"편집하다",
         "delete":"삭제",
+        "save": "저장",
         "accessAndAccessRights":"접근 및 접근 권한",
         "nevtersenHundHaruulah":"로그인 한 모든 사람에게 보여줍니다.",
+        "accessRights":"액세스 권한",
+        "allUsersCanSee":"권한이 없는 경우 모든 사용자가 볼 수 있습니다.",
+        "subTables":"하위 테이블",
+        "subTable":"하위 테이블",
+        "connectionField":"연결 필드",
     },
     components:{
         "add": "추가하다",

@@ -103,10 +103,10 @@ export default {
         usersAndUserGroups:"ХЭРЭГЛЭГЧ, ХАНДАХ ЭРХ",
         users:"Хэрэглэгчид",
         userGroupsPermission:"Хандах эрх, Зөвшөөрөл",
-        manage_access_rights:"Хандах эрх удирдах",
         sendDBSchema:"Өгөгдлийн сангийн бүтцийг илгээх",
         database: "Өгөгдлийн сан",
     },
+
     appAdmin:{},
     chart:{},
     dataForm:{},
@@ -171,6 +171,10 @@ export default {
     project:{
 
     },
-
+    puzzle:{
+        "manage_access_rights":"Хандах эрх удирдах",
+        "data_recording_environment":"ӨГӨГДӨЛ БҮРТГЭХ ОРЧИН ҮҮСГЭГЧ",
+        "form": "Маягт",
+    }
 
 }

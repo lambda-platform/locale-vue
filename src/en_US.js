@@ -124,7 +124,6 @@ export default {
         usersAndUserGroups:"User, User group",
         users:"Users",
         userGroupsPermission:"User groups, Permissions",
-        manage_access_rights:"Manage access rights",
         sendDBSchema:"Send Database schema",
 
     },
@@ -193,5 +192,9 @@ export default {
     project:{
 
     },
-
+    puzzle:{
+        manage_access_rights:"Manage access rights",
+        data_recording_environment:"DATA RECORDING ENVIRONMENT",
+        form: "Form",
+    }
 }

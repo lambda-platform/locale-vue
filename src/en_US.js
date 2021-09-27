@@ -199,8 +199,23 @@ export default {
 
     },
     puzzle:{
-        manage_access_rights:"Manage access rights",
-        data_recording_environment:"DATA RECORDING ENVIRONMENT",
-        form: "Form",
+        "manage_access_rights":"Manage access rights",
+        "data_recording_environment":"DATA RECORDING ENVIRONMENT",
+        "form": "Form",
+        "table": "Table",
+        "form_and_table_consolidation": "Form and table consolidation",
+        "data_processor": "DATA PROCESSOR",
+        "data_settings": "Data settings",
+        "chart": "Chart",
+        "original_preparation": "Original preparation",
+        "report": "Report",
+        "analysis": "Analysis",
+        "target_statement": "Target statement",
+        "graphql_management": "Graphql management",
+        "usersAndUserGroups":"User, User group",
+        "users":"Users",
+        "userGroupsPermission":"User groups, Permissions",
+        "menu_settings":"Menu settings",
+        "logOut": "Log out",
     }
 }

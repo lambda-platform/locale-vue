@@ -94,9 +94,10 @@ export default {
         "ruconfinfoDelete": "Ажилтны мэдээллийг бүр мөсөн устгахдаа итгэлтэй байна уу?",
         "created": "Үүсгэсэн",
         "userDeleted": "Хэрэглэгч устгагдлаа",
-
+        "listOfDeletedUsers": "Устгасан хэрэглэгчдийн жагсаалт",
         "logout":"Гарах",
         "cancel":"Болих",
+        "by": " - аар",
     },
     adminModule:{
         db:"Өгөгдлийн сан",

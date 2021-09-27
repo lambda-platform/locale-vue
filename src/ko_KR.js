@@ -117,6 +117,9 @@ export default {
         "userDeleted": "사용자가 삭제됨",
         "logout":"출구",
         "cancel":"아파요",
+        "listOfDeletedUsers": "삭제된 사용자 목록",
+        "by": " ~에 의해",
+
     },
     adminModule:{
         db: "데이터베이스",

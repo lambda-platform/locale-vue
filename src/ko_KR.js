@@ -120,6 +120,8 @@ export default {
         "cancel":"아파요",
         "listOfDeletedUsers": "삭제된 사용자 목록",
         "by": " ~에 의해",
+        "no":"아니요",
+        "yes":"예",
 
     },
     adminModule:{

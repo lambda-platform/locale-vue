@@ -98,6 +98,8 @@ export default {
         "logout":"Гарах",
         "cancel":"Болих",
         "by": " - аар",
+        "no":"Үгүй",
+        "yes":"Тийм",
     },
     adminModule:{
         db:"Өгөгдлийн сан",

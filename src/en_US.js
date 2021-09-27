@@ -121,6 +121,9 @@ export default {
         "cancel":"Cancel",
         "listOfDeletedUsers": "List of deleted users",
         "by": "by",
+        "no": "no",
+        "yes":"yes",
+
     },
     adminModule:{
         db:"Database",

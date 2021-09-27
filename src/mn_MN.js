@@ -176,6 +176,22 @@ export default {
         "manage_access_rights":"Хандах эрх удирдах",
         "data_recording_environment":"ӨГӨГДӨЛ БҮРТГЭХ ОРЧИН ҮҮСГЭГЧ",
         "form": "Маягт",
+        "table": "Хүснэгт",
+        "form_and_table_consolidation": "Маягт, хүснэгт нэгтгэл",
+        "data_processor": "МЭДЭЭЛЭЛ БОЛОВСРУУЛАГЧ",
+        "data_settings": "Өгөгдлийн тохиргоо",
+        "chart": "График",
+        "original_preparation": "Эх бэлтгэл",
+        "report": "Тайлан",
+        "analysis": "Анализ",
+        "target_statement": "Зорилтод мэдэгдэл",
+        "graphql_management": "Graphql удирдлага",
+        "usersAndUserGroups":"ХЭРЭГЛЭГЧ, ХАНДАХ ЭРХ",
+        "users": "Хэрэглэгчид",
+        "userGroupsPermission":"Хандах эрх, Зөвшөөрөл",
+        "menu_settings":"Цэсний тохиргоо",
+        "logout":"Гарах",
+        "cancel":"Болих",
     }
 
 }

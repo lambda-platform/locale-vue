@@ -116,6 +116,8 @@ export default {
         "sendDBSchema":"Өгөгдлийн сангийн бүтцийг илгээх",
         "database": "Өгөгдлийн сан",
         "AddColumn":"Багана нэмэх",
+    },
+    graphql:{
         "graphqlManagement":"Graphql удирдлага",
         "table":"Хүснэгт",
         "selectTable":"Хүснэгт сонгох",
@@ -126,8 +128,15 @@ export default {
         "add":"Нэмэх",
         "edit":"Засах",
         "delete":"Устгах",
+        "save": "Хадгалах",
         "accessAndAccessRights":"Нэвтрэлт болон хандах эрх",
         "nevtersenHundHaruulah":"Нэвтэрсэн хүнд харуулна.",
+        "accessRights":"Харах боломжтой хандах эрх",
+        "allUsersCanSee":"Эрх тавьж өгөөгүй тохиолдолд бүх хэрэглчид харах боломжтой.",
+        "subTables":"Дэд хүснэгтүүд",
+        "subTable":"Дэд хүснэгт",
+        "connectionField":"Холбох талбар",
+
     },
     components:{
         "add": "Нэмэх",

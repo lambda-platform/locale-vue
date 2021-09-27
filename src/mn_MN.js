@@ -153,7 +153,6 @@ export default {
         "logOut":"Системээс гарах",
         "changePassword":"Нууц үг солих ",
         "projectList":"Төслийн жагсаалт",
-
     },
 
     appAdmin:{},
@@ -263,6 +262,8 @@ export default {
         "value_column": "Утга багана",
         "delete_data": "Өгөгдөлийг устгах уу",
         "menuSelection": "Цэс сонгох",
+        "not_found": "олдсонгүй",
+
     }
 
 }

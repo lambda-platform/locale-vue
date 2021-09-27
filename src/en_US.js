@@ -285,5 +285,6 @@ export default {
         "value_column": "Value column",
         "delete_data": "Please delete the data",
         "menuSelection": "Menu selection",
+        "not_found": "not found",
     }
 }

@@ -285,5 +285,6 @@ export default {
         "value_column": "값 열",
         "delete_data": "데이터를 삭제해주세요",
         "menuSelection": "메뉴 선택",
+        "not_found": "찾을 수 없음",
     }
 }

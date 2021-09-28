@@ -116,8 +116,8 @@ export default {
         "ruconfinfoDelete": "직원 정보를 완전히 삭제하시겠습니까?",
         "created": "만들어진",
         "userDeleted": "사용자가 삭제됨",
-        "logout":"출구",
-        "cancel":"아파요",
+        "_logout":"출구",
+        "_cancel":"취소",
         "listOfDeletedUsers": "삭제된 사용자 목록",
         "by": " ~에 의해",
         "no":"아니요",
@@ -139,6 +139,13 @@ export default {
         "additions":"추가 사항",
         "logistics":"물류 센터",
         "AddColumn":"열 추가",
+        "systemUpdate":"시스템 업데이트",
+        "graphic":"그래픽",
+        "column":"열",
+        "dataType":"데이터 형식",
+        "form":"형태",
+        "table":"테이블",
+        "original_preparation": "원래 준비",
     },
     graphql:{
         "graphqlManagement":"Graphql 관리",
@@ -249,9 +256,10 @@ export default {
         "displayName": "외모 이름",
         "note":"말",
         "cancel":"취소",
+        "defaultMenu":"기본 메뉴",
+        "chart":"차트",
     },
     project:{
-
 
     },
     puzzle:{

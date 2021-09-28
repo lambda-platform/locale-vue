@@ -184,6 +184,9 @@ export default {
         "logOut":"로그 아웃",
         "changePassword":"비밀번호 변경",
         "projectList":"프로젝트 목록",
+        "table_list":"테이블 목록",
+        "ui_builder":"UI 빌더",
+        "_form":"형태",
     },
 
     appAdmin:{},

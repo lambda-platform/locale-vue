@@ -185,6 +185,9 @@ export default {
         "logOut":"Log out",
         "changePassword":"Change password ",
         "projectList":"Project list",
+        "table_list":"table list",
+        "ui_builder":"UI builder",
+        "_form":"Form",
     },
 
     appAdmin:{},

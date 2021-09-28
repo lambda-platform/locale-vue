@@ -162,6 +162,9 @@ export default {
         "logOut":"Системээс гарах",
         "changePassword":"Нууц үг солих ",
         "projectList":"Төслийн жагсаалт",
+        "table_list":"Хүснэгтийн жагсаалт",
+        "ui_builder":"UI бүтээгч",
+        "_form":"Маягт",
     },
 
     appAdmin:{},

@@ -168,6 +168,8 @@ export default {
         "subTables":"하위 테이블",
         "subTable":"하위 테이블",
         "connectionField":"연결 필드",
+        "tableList": "테이블 목록",
+        "viewList": "View 목록",
     },
     components:{
         "add": "추가하다",
@@ -377,6 +379,8 @@ export default {
         "delete_data": "데이터를 삭제해주세요",
         "menuSelection": "메뉴 선택",
         "not_found": "찾을 수 없음",
+        "meaningTake": "취하다의 의미",
+        "filter": "필터",
     },
     notify:{
         "notice": "공지사항",
@@ -392,5 +396,5 @@ export default {
     },
     page:{
         "pageNotFound": "페이지를 찾을 수 없습니다.",
-    }
+    },
 }

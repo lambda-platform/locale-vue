@@ -169,6 +169,9 @@ export default {
         "subTables":"Sub-tables",
         "subTable":"Sub-table",
         "connectionField":"Connection field",
+        "tableList":"table list",
+        "viewList": "View list",
+
     },
     components:{
         "add": "Add",
@@ -378,6 +381,8 @@ export default {
         "delete_data": "Please delete the data",
         "menuSelection": "Menu selection",
         "not_found": "not found",
+        "meaningTake": "Meaning to take",
+        "filter": "filter",
     },
     notify:{
         "notice": "Notices",
@@ -393,5 +398,5 @@ export default {
     },
     page:{
         "pageNotFound":"The Page can't be found",
-    }
+    },
 }

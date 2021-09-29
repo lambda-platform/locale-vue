@@ -144,6 +144,8 @@ export default {
         "subTables":"Дэд хүснэгтүүд",
         "subTable":"Дэд хүснэгт",
         "connectionField":"Холбох талбар",
+        "tableList": "Хүснэгтийн жагсаалт",
+        "viewList": "View жагсаалт",
 
     },
     components:{
@@ -349,11 +351,13 @@ export default {
         "_confirm": "Баталгаажуулах",
         "list_grid": "Жагсаалт | Grid (шүүлтүүр)",
         "custom_column": "Хэрэглэгчийн багана",
-        "judgment_column": "Хэрэглэгчийн багана",
+        "judgment_column": "Шүүлт хийх багана",
         "value_column": "Утга багана",
         "delete_data": "Өгөгдөлийг устгах уу",
         "menuSelection": "Цэс сонгох",
         "not_found": "олдсонгүй",
+        "meaningTake": "Авах утга",
+        "filter": "Шүүлтүүр",
 
     },
     notify:{
@@ -370,6 +374,7 @@ export default {
     },
     page:{
         "pageNotFound": "Хуудас олдсонгүй.",
-    }
+    },
+
 
 }

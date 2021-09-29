@@ -359,4 +359,14 @@ export default {
         "no_notice": "아직 공지가 없습니다!",
         "view_all_notifications": "모든 알림 보기",
     },
+    moqup:{
+        "elements":"집단",
+        "chart":"차트",
+        "save": "저장",
+        "embedlink": "링크 삽입",
+        "edit":"편집하다",
+    },
+    page:{
+        "pageNotFound": "페이지를 찾을 수 없습니다.",
+    }
 }

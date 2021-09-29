@@ -360,4 +360,14 @@ export default {
         "no_notice": "No announcements yet!",
         "view_all_notifications": "View all notifications",
     },
+    moqup:{
+        "elements":"elements",
+        "chart":"Chart",
+        "save": "save",
+        "embedlink": "Embed link",
+        "edit":"Edit",
+    },
+    page:{
+        "pageNotFound":"The Page can't be found",
+    }
 }

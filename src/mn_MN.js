@@ -339,5 +339,15 @@ export default {
         "no_notice": "Одоогоор мэдэгдэл байхгүй байна!",
         "view_all_notifications": "Бүх мэдэгдлийг харах",
     },
+    moqup:{
+        "elements":"Элемэнтүүд",
+        "chart":"Чарт",
+        "save": "Хадгалах",
+        "embedlink": "Embed холбоос",
+        "edit":"Засах",
+    },
+    page:{
+        "pageNotFound": "Хуудас олдсонгүй.",
+    }
 
 }

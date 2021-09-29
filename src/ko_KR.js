@@ -299,6 +299,16 @@ export default {
         "add":"추가하다",
         "menuSelection": "메뉴 선택",
         "default_menu": "기본 메뉴",
+        "lambda_platform": "작곡가 만들기 프로젝트 람다 플랫폼/라라벨",
+        "composer": "작곡가",
+        "_save": "구하다",
+        "optional":"선택 과목",
+        "data_source": "데이터 소스",
+        "_moqup": "모쿱",
+        "user_list": "용자 목록",
+        "_import": "수입",
+        "register": "등록하다",
+        "_confirm": "확인하다",
     },
     puzzle:{
         "manage_access_rights":"접근 권한 관리",
@@ -343,5 +353,10 @@ export default {
         "delete_data": "데이터를 삭제해주세요",
         "menuSelection": "메뉴 선택",
         "not_found": "찾을 수 없음",
-    }
+    },
+    notify:{
+        "notice": "공지사항",
+        "no_notice": "아직 공지가 없습니다!",
+        "view_all_notifications": "모든 알림 보기",
+    },
 }

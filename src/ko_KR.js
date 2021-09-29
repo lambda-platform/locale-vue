@@ -196,6 +196,7 @@ export default {
         "table_list":"테이블 목록",
         "ui_builder":"UI 빌더",
         "_form":"형태",
+        "someContents":"일부 내용",
     },
 
     appAdmin:{},
@@ -251,6 +252,8 @@ export default {
         "alias": "별명",
         "select": "선택하다",
         "bolomjitTableAndView":"사용 가능한 'table' 및 'view'",
+        "selectTable":"테이블 선택",
+        "applications":"애플리케이션",
     },
     role:{
         "administraationRightsManagment": "행정권 관리",

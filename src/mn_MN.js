@@ -173,6 +173,7 @@ export default {
         "table_list":"Хүснэгтийн жагсаалт",
         "ui_builder":"UI бүтээгч",
         "_form":"Маягт",
+        "someContents":"Зарим агуулга",
     },
 
     appAdmin:{},
@@ -228,6 +229,8 @@ export default {
         "alias": "Зохиомол нэр",
         "select": "Сонгох",
         "bolomjitTableAndView":"Боломжит 'table' болон 'view'",
+        "selectTable":"Хүснэгт сонгох",
+        "applications":"Програмууд",
 
     },
     role:{

@@ -197,6 +197,7 @@ export default {
         "table_list":"table list",
         "ui_builder":"UI builder",
         "_form":"Form",
+        "someContents":"Some contents",
     },
 
     appAdmin:{},
@@ -252,6 +253,8 @@ export default {
         "alias": "Alias",
         "select": "Select",
         "bolomjitTableAndView":"Available 'table' and 'view'",
+        "selectTable":"Select a table",
+        "applications":"Applications",
     },
     role:{
         "administraationRightsManagment": "Administration rights management",

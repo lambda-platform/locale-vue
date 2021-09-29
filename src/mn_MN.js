@@ -105,7 +105,8 @@ export default {
         "errorOccWhileDeleting": "Устгах үед алдаа гарлаа",
         "userInformationRestored": "Хэрэглэгчийн мэдээлэл сэргээгдлээ",
         "errorOccurredWhileRetrievingData": "Мэдээлэл сэргээхэд алдаа гарлаа",
-
+        "total": "Нийт",
+        "edit":"Засах",
 
     },
     adminModule:{
@@ -297,6 +298,16 @@ export default {
         "add":"Нэмэх",
         "menuSelection": "Цэс сонгох",
         "default_menu": "Анхдагч цэс",
+        "lambda_platform": "composer create-project lambda-platform/laravel",
+        "composer": "Composer",
+        "_save": "Хадгалах",
+        "optional":"Нэмэлт",
+        "data_source": "Мэдээллийн эх сурвалж",
+        "_moqup": "Мокуп",
+        "user_list": "Хэрэглэгчийн жагсаалт",
+        "_import": "Импорт хийх",
+        "register": "Бүртгэх",
+        "_confirm": "Баталгаажуулах",
     },
     puzzle:{
         "manage_access_rights":"Хандах эрх удирдах",
@@ -342,6 +353,11 @@ export default {
         "menuSelection": "Цэс сонгох",
         "not_found": "олдсонгүй",
 
-    }
+    },
+    notify:{
+        "notice": "Мэдэгдлүүд",
+        "no_notice": "Одоогоор мэдэгдэл байхгүй байна!",
+        "view_all_notifications": "Бүх мэдэгдлийг харах",
+    },
 
 }

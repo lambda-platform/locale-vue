@@ -128,6 +128,8 @@ export default {
         "errorOccWhileDeleting": "An error occurred while deleting",
         "userInformationRestored": "User information restored",
         "errorOccurredWhileRetrievingData": "An error occurred while retrieving the data",
+        "total": "total",
+        "edit":"Edit",
 
     },
     adminModule:{
@@ -318,6 +320,16 @@ export default {
         "add":"Add",
         "menuSelection": "Menu selection",
         "default_menu": "Default menu",
+        "lambda_platform": "composer create-project lambda-platform/laravel",
+        "composer": "Composer",
+        "_save": "Save",
+        "optional":"Optional",
+        "data_source": "Data source",
+        "_moqup": "Moqup",
+        "user_list": "User list",
+        "_import": "Import",
+        "register": "Register",
+        "_confirm": "Confirm",
     },
     puzzle:{
         "manage_access_rights":"Manage access rights",
@@ -362,5 +374,10 @@ export default {
         "delete_data": "Please delete the data",
         "menuSelection": "Menu selection",
         "not_found": "not found",
-    }
+    },
+    notify:{
+        "notice": "Notices",
+        "no_notice": "No announcements yet!",
+        "view_all_notifications": "View all notifications",
+    },
 }

@@ -1,6 +1,11 @@
 export default {
     locale: 'mn-mn',
     user:{
+        "defaultMenu":"Анхдагч цэс",
+        "pleaseWait":"Түр хүлээнэ үү!",
+        "additional": "Нэмэлт",
+        "role":"Үүрэг",
+        "save": "Хадгалах",
         "view": "харах",
         "add": "Нэмэх",
         "user": "хэрэглэгч",
@@ -31,7 +36,7 @@ export default {
         "settings": "Тохиргоо",
         "logOut": "Системээс гарах",
         "pleaseSelectRole": "Үүрэг сонгоно уу",
-        "administraationRightsManagment": "ХАНДАХ ЭРХ УДИРДАХ",
+        "administraationRightsManagment": "Хандах эрх удирдах",
         "dataSource": "Мэдээллийн эх сурвалж",
         "chart": "График",
         "register": "Бүртгэх",
@@ -144,6 +149,8 @@ export default {
         "subTables":"Дэд хүснэгтүүд",
         "subTable":"Дэд хүснэгт",
         "connectionField":"Холбох талбар",
+        "tableList": "Хүснэгтийн жагсаалт",
+        "viewList": "View жагсаалт",
 
     },
     components:{
@@ -173,6 +180,7 @@ export default {
         "table_list":"Хүснэгтийн жагсаалт",
         "ui_builder":"UI бүтээгч",
         "_form":"Маягт",
+        "someContents":"Зарим агуулга",
     },
     chart:{
         "horizontal_value": "Хөндлөн утга",
@@ -264,7 +272,8 @@ export default {
         "alias": "Зохиомол нэр",
         "select": "Сонгох",
         "bolomjitTableAndView":"Боломжит 'table' болон 'view'",
-
+        "selectTable":"Хүснэгт сонгох",
+        "applications":"Програмууд",
     },
     role:{
         "administraationRightsManagment": "ХАНДАХ ЭРХ УДИРДАХ",
@@ -294,7 +303,7 @@ export default {
         "cancel":"Болих",
         "defaultMenu":"Анхдагч цэс",
         "chart":"График",
-        "":"",
+        "tableName":"Хүснэгтийн нэр ",
     },
     project:{
         "project": "ТӨСӨЛ",
@@ -383,11 +392,13 @@ export default {
         "_confirm": "Баталгаажуулах",
         "list_grid": "Жагсаалт | Grid (шүүлтүүр)",
         "custom_column": "Хэрэглэгчийн багана",
-        "judgment_column": "Хэрэглэгчийн багана",
+        "judgment_column": "Шүүлт хийх багана",
         "value_column": "Утга багана",
         "delete_data": "Өгөгдөлийг устгах уу",
         "menuSelection": "Цэс сонгох",
         "not_found": "олдсонгүй",
+        "meaningTake": "Авах утга",
+        "filter": "Шүүлтүүр",
 
     },
     notify:{
@@ -421,5 +432,15 @@ export default {
         "dataProcessing": "Өгөгдөл боловсруулах",
         "graphics_generator": "График үүсгэгч",
         "point": "Цэг",
+    },
+    moqup:{
+        "elements":"Элемэнтүүд",
+        "chart":"Чарт",
+        "save": "Хадгалах",
+        "embedlink": "Embed холбоос",
+        "edit":"Засах",
+    },
+    page:{
+        "pageNotFound": "Хуудас олдсонгүй.",
     },
 }

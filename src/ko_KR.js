@@ -1,6 +1,6 @@
 export default {
     locale: 'ko-kr',
-    agent:{
+    user:{
         "title": "람다 플랫폼",
         "subtitle": "람다 플랫폼",
         "login": "로그인",
@@ -127,6 +127,8 @@ export default {
         "errorOccWhileDeleting": "삭제하는 동안 오류가 발생했습니다",
         "userInformationRestored": "사용자 정보 복원",
         "errorOccurredWhileRetrievingData": "데이터를 검색하는 동안 오류가 발생했습니다",
+        "total": "총",
+        "edit":"편집하다",
 
     },
     adminModule:{

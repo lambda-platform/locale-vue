@@ -105,7 +105,8 @@ export default {
         "errorOccWhileDeleting": "Устгах үед алдаа гарлаа",
         "userInformationRestored": "Хэрэглэгчийн мэдээлэл сэргээгдлээ",
         "errorOccurredWhileRetrievingData": "Мэдээлэл сэргээхэд алдаа гарлаа",
-
+        "total": "Нийт",
+        "edit":"Засах",
 
     },
     adminModule:{

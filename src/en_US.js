@@ -128,6 +128,8 @@ export default {
         "errorOccWhileDeleting": "An error occurred while deleting",
         "userInformationRestored": "User information restored",
         "errorOccurredWhileRetrievingData": "An error occurred while retrieving the data",
+        "total": "total",
+        "edit":"Edit",
 
     },
     adminModule:{

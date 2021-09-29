@@ -200,7 +200,27 @@ export default {
 
     appAdmin:{},
     chart:{},
-    dataForm:{},
+    dataForm:{
+        "fillInTheNewOne": "새로운 것을 채우십시오",
+        "pleaseWait":"잠시만 기다려주세요!",
+        "close":"닫다",
+        "basicSettings":"기본 설정",
+        "configureTheData":"데이터 구성",
+        "trigger":"방아쇠",
+        "informationLink":"정보 링크",
+        "GetValuesFromTheTable":"테이블에서 값 가져오기",
+        "Geographic":"지리적",
+        "AdditionalValues":"추가 값",
+        "selectMultipleImg":"여러 이미지를 선택할지 여부",
+        "TypeOfTheEditor":"편집기 유형",
+        "Placeholder":"자리 표시자",
+        "default_Value":"기본값",
+        "Get_value_parameter":"매개변수에서 값 가져오기",
+        "Parameter_name":"매개변수 이름",
+        "Get_user_ID":"사용자 ID 가져오기",
+        "Consolidation_formula":"연결 공식",
+
+    },
     dataGrid:{},
     dataSource:{
         "database": "데이터 베이스",

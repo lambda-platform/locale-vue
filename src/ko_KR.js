@@ -283,6 +283,7 @@ export default {
         "cancel":"취소",
         "defaultMenu":"기본 메뉴",
         "chart":"차트",
+        "tableName":"테이블 이름",
     },
     project:{
         "project": "프로젝트",

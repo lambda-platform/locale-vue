@@ -284,6 +284,7 @@ export default {
         "cancel":"Cancel",
         "defaultMenu":"Default menu",
         "chart":"Chart",
+        "tableName":"table name",
     },
     project:{
         "project": "PROJECT",

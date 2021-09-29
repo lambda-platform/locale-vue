@@ -231,7 +231,6 @@ export default {
         "bolomjitTableAndView":"Боломжит 'table' болон 'view'",
         "selectTable":"Хүснэгт сонгох",
         "applications":"Програмууд",
-
     },
     role:{
         "administraationRightsManagment": "ХАНДАХ ЭРХ УДИРДАХ",
@@ -261,7 +260,7 @@ export default {
         "cancel":"Болих",
         "defaultMenu":"Анхдагч цэс",
         "chart":"График",
-        "":"",
+        "tableName":"Хүснэгтийн нэр ",
     },
     project:{
         "project": "ТӨСӨЛ",

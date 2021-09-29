@@ -1,6 +1,9 @@
 export default {
     locale: 'en-us',
     user:{
+        "defaultMenu":"Default menu",
+        "pleaseWait":"Please wait",
+        "role":"role",
         "title": "Lambda Platform",
         "subtitle": "Lambda Platform",
         "login": "Login",
@@ -79,7 +82,7 @@ export default {
         "logOut": "Log out",
         "pleaseSelectRole": "Please select a role",
         "administraationRightsManagment": "Administration rights management",
-        "additional": "ADDITIONAL",
+        "additional": "additional",
         "dataSource": "Data source",
         "chart": "Chart",
         "userList": "User list",

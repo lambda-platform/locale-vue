@@ -1,6 +1,9 @@
 export default {
     locale: 'ko-kr',
     user:{
+        "defaultMenu":"기본 메뉴",
+        "pleaseWait":"잠시만 기다려주세요!",
+        "role":"직장",
         "title": "람다 플랫폼",
         "subtitle": "람다 플랫폼",
         "login": "로그인",

@@ -1,6 +1,11 @@
 export default {
     locale: 'mn-mn',
     user:{
+        "defaultMenu":"Анхдагч цэс",
+        "pleaseWait":"Түр хүлээнэ үү!",
+        "additional": "Нэмэлт",
+        "role":"Үүрэг",
+        "save": "Хадгалах",
         "view": "харах",
         "add": "Нэмэх",
         "user": "хэрэглэгч",
@@ -31,7 +36,7 @@ export default {
         "settings": "Тохиргоо",
         "logOut": "Системээс гарах",
         "pleaseSelectRole": "Үүрэг сонгоно уу",
-        "administraationRightsManagment": "ХАНДАХ ЭРХ УДИРДАХ",
+        "administraationRightsManagment": "Хандах эрх удирдах",
         "dataSource": "Мэдээллийн эх сурвалж",
         "chart": "График",
         "register": "Бүртгэх",

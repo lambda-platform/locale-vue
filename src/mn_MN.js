@@ -151,7 +151,8 @@ export default {
         "connectionField":"Холбох талбар",
         "tableList": "Хүснэгтийн жагсаалт",
         "viewList": "View жагсаалт",
-
+        "real_time": "Бодит цагийн захиалга",
+        "cancel":"Болих",
     },
     components:{
         "add": "Нэмэх",
@@ -399,6 +400,7 @@ export default {
         "_import": "Импорт хийх",
         "register": "Бүртгэх",
         "_confirm": "Баталгаажуулах",
+        "deleteData":"Өгөгдөлийг устгах уу?",
     },
     puzzle:{
         "manage_access_rights":"Хандах эрх удирдах",

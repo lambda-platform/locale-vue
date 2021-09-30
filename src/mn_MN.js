@@ -286,7 +286,9 @@ export default {
         "Successful":"Амжилтай",
 
     },
-    dataGrid:{},
+    dataGrid:{
+
+    },
     dataSource:{
         "database": "Өгөгдлийн сан ",
         "add": "Нэмэх",
@@ -487,4 +489,5 @@ export default {
     page:{
         "pageNotFound": "Хуудас олдсонгүй.",
     },
+
 }

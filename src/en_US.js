@@ -243,7 +243,7 @@ export default {
         "_type":"Type",
         "fictitious_name":"Fictitious name",
         "_color":"Color",
-        
+
     },
     dataForm:{
         "save":"구하다",

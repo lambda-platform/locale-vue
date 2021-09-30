@@ -151,7 +151,8 @@ export default {
         "connectionField":"Холбох талбар",
         "tableList": "Хүснэгтийн жагсаалт",
         "viewList": "View жагсаалт",
-
+        "real_time": "Бодит цагийн захиалга",
+        "cancel":"Болих",
     },
     components:{
         "add": "Нэмэх",
@@ -284,8 +285,46 @@ export default {
         "Trigger_load_time":"Триггер дуудах хугацаа ",
         "Example_data_returned_server":"Серверээс буцаах өгөдлийн жишээ",
         "Successful":"Амжилтай",
+        "URL_call_information_link":"Мэдээллийн холбоос дуудах URL",
+        "Value_table":"Утга авах хүснэгт",
+        "Value_return_field":"Утга буцаах талбар",
+        "Geographic_settings":"Газарзүйн тохиргоо",
+        "attribute":"Атрибут",
+        "properties":"шинж чанарууд",
+        "Geometric_type":"Геометрийн төрөл",
+        "point":"Цэг",
+        "line":"Шугам",
+        "polygon":"Олон өнцөгт",
+        "length_center":"Төвийн уртраг",
+        "latitude_center":"Төвийн өргөрөг",
+        "Map_magnification":"Газрын зургийн томруулалт",
+        "Background_map":"Суурь зураг",
+        "Google_Street":"Google Гудамж",
+        "Google_Space":"Google Сансрын",
+        "Open_Street_Map":"Гудамжны зургийг нээх",
+        "Check_overlap_area":"Талбайн давхцал шалгах",
+        "Feature_Class_link":"Feature Class холбоос",
+        "Search_field":"Хайлт хийх талбар",
+        "Search_value_field":"Хайлтын утга авах талбар",
+        "Success_message":"Амжилттай мессеж",
+        "Error_message":"Алдааны мессеж",
+        "Form_name":"Формын нэр",
+        "Form_type":"Формын төрөл",
+        "Simple_form":"Энгийн форм",
+        "Step_by_step_form":"Алхамтай форм",
+        "data_table": "Өгөгдлийн хүснэгт",
+        "idField":"ID талбар",
+        "Date_generated_automatically":"Огноо автоматаар үүсэх",
+        "Label_location":"Лабелын байршил",
+        "Form_width":"Формын өргөн",
+        "Save_button_word":"Хадгалах товчний үг",
+        "Padding_spacing":"Padding - зай авалт" ,
 
     },
+    dataGrid:{
+
+    },
+<<<<<<< HEAD
     dataGrid:{
         "infoCourt":"Мэдээлэл шүүх",
         "filtering":"Шүүж харах",
@@ -341,6 +380,8 @@ export default {
 
 
     },
+=======
+>>>>>>> 7e8f2b9aff8bf0ec5faf8f90edd3fb1e74e74fe1
     dataSource:{
         "database": "Өгөгдлийн сан ",
         "add": "Нэмэх",
@@ -453,6 +494,7 @@ export default {
         "_import": "Импорт хийх",
         "register": "Бүртгэх",
         "_confirm": "Баталгаажуулах",
+        "deleteData":"Өгөгдөлийг устгах уу?",
     },
     puzzle:{
         "manage_access_rights":"Хандах эрх удирдах",
@@ -543,4 +585,5 @@ export default {
     page:{
         "pageNotFound": "Хуудас олдсонгүй.",
     },
+
 }

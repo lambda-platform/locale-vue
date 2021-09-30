@@ -321,10 +321,7 @@ export default {
         "Padding_spacing":"Padding - зай авалт" ,
 
     },
-    dataGrid:{
 
-    },
-<<<<<<< HEAD
     dataGrid:{
         "infoCourt":"Мэдээлэл шүүх",
         "filtering":"Шүүж харах",
@@ -380,8 +377,6 @@ export default {
 
 
     },
-=======
->>>>>>> 7e8f2b9aff8bf0ec5faf8f90edd3fb1e74e74fe1
     dataSource:{
         "database": "Өгөгдлийн сан ",
         "add": "Нэмэх",

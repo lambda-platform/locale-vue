@@ -151,7 +151,8 @@ export default {
         "connectionField":"Холбох талбар",
         "tableList": "Хүснэгтийн жагсаалт",
         "viewList": "View жагсаалт",
-
+        "real_time": "Бодит цагийн захиалга",
+        "cancel":"Болих",
     },
     components:{
         "add": "Нэмэх",
@@ -320,7 +321,9 @@ export default {
         "Padding_spacing":"Padding - зай авалт" ,
 
     },
-    dataGrid:{},
+    dataGrid:{
+
+    },
     dataSource:{
         "database": "Өгөгдлийн сан ",
         "add": "Нэмэх",
@@ -431,6 +434,7 @@ export default {
         "_import": "Импорт хийх",
         "register": "Бүртгэх",
         "_confirm": "Баталгаажуулах",
+        "deleteData":"Өгөгдөлийг устгах уу?",
     },
     puzzle:{
         "manage_access_rights":"Хандах эрх удирдах",
@@ -521,4 +525,5 @@ export default {
     page:{
         "pageNotFound": "Хуудас олдсонгүй.",
     },
+
 }

@@ -174,7 +174,8 @@ export default {
         "connectionField":"Connection field",
         "tableList":"table list",
         "viewList": "View list",
-
+        "real_time": "Real time subscription",
+        "cancel":"Cancel",
     },
     components:{
         "add": "Add",
@@ -455,6 +456,7 @@ export default {
         "_import": "Import",
         "register": "Register",
         "_confirm": "Confirm",
+        "deleteData":"Delete data?",
     },
     puzzle:{
         "manage_access_rights":"Manage access rights",

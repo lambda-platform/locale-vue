@@ -119,7 +119,7 @@ export default {
         "ruconfinfoDelete": "직원 정보를 완전히 삭제하시겠습니까?",
         "created": "만들어진",
         "userDeleted": "사용자가 삭제됨",
-        "_logout":"출구",
+        "_logout":"로그 아웃",
         "_cancel":"취소",
         "listOfDeletedUsers": "삭제된 사용자 목록",
         "by": " ~에 의해",
@@ -173,6 +173,8 @@ export default {
         "connectionField":"연결 필드",
         "tableList": "테이블 목록",
         "viewList": "View 목록",
+        "real_time": "실시간 구독",
+        "cancel":"취소",
     },
     components:{
         "add": "추가하다",
@@ -452,6 +454,7 @@ export default {
         "_import": "수입",
         "register": "등록하다",
         "_confirm": "확인하다",
+        "deleteData":"데이터를 삭제하시겠습니까?",
     },
     puzzle:{
         "manage_access_rights":"접근 권한 관리",

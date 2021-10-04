@@ -444,6 +444,10 @@ export default {
         "staticWidth": "Static width",
         "destroyedCanBeRestored": "Destroyed can be restored",
         "paging": "paging",
+        "edit":"Edit",
+        "name": "Name",
+        "basicTable":"Basic table",
+
     },
     dataSource:{
         "database": "Database",

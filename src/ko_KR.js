@@ -443,6 +443,9 @@ export default {
         "staticWidth": "정적 너비",
         "destroyedCanBeRestored": "파괴된 것을 복구할 수 있습니다",
         "paging": "페이징",
+        "edit":"편집하다",
+        "name": "이름",
+        "basicTable":" 기본 테이블",
 
     },
     dataSource:{

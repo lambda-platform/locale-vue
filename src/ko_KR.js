@@ -157,6 +157,7 @@ export default {
         "profile_image":"프로필 이미지",
         "profile_image_uploud":"프로필 사진 업로드",
         "profile_desc":"프로필 사진을 선택하여 서버에 업로드하십시오. 이미지 크기는 1MB를 초과할 수 없습니다.",
+        "your_new_password":"Таны шинэ нууц үг",
     },
     adminModule:{
         "db": "데이터베이스",

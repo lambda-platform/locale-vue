@@ -474,8 +474,6 @@ export default {
         "data_table": "Өгөгдлийн хүснэгт",
         "pleaseWait":"Түр хүлээнэ үү!",
         "save": "Хадгалах",
-
-        //excel convert
         "appearanceName": "Харагдах нэр",
         "hide": "Нуух",
         "court": "Шүүх",
@@ -538,7 +536,6 @@ export default {
         "actionsField": "Үйлдлүүд талбар",
         "performActionWithMouse": "Үйлдэл хулганаар хийх",
         "renew": "Шинэчлэх",
-
         "tableHeaderTemplate": "Хүснэгтийн толгойн загвар",
         "createHeaderTemplate": "Толгойн загвар үүсгэх",
         "addLine": "Мөр нэмэх",
@@ -552,7 +549,6 @@ export default {
         "row": "мөр",
         "selectPaperSize": "Цаасны хэмжээ сонгох",
         "currencySelection": "Валют сонгох",
-
         "tugrug": "Төгрөг",
         "dollar": "Доллар",
         "euro": "Евро",
@@ -560,7 +556,6 @@ export default {
         "austDollar": "Австрали доллар",
         "rubli": "Рубль",
         "choosevalue": "Утга сонгох",
-
     },
     dataSource:{
         "database": "Өгөгдлийн сан ",

@@ -412,6 +412,11 @@ export default {
         "row_numbering":"Row numbering",
         "Table_Type_field":"Table Type field",
         "Table_Type_value":"Table Type value",
+        "Consolidation_forms_and_tables":"Consolidation of forms and tables",
+        "_link":"Link",
+        "iframe_page":"iframe page",
+        "No_action":"No action",
+        "_division":"Division",
     },
     dataGrid:{
         "infoCourt":"Information court",

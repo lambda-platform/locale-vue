@@ -413,10 +413,18 @@ export default {
         "Table_Type_field":"Table Type field",
         "Table_Type_value":"Table Type value",
 
+
         "sectiuon_add":"Section add",
         "add_column":"Add a column",
         "_delete":"Delete",
         "_move":"Move",
+
+        "Consolidation_forms_and_tables":"Consolidation of forms and tables",
+        "_link":"Link",
+        "iframe_page":"iframe page",
+        "No_action":"No action",
+        "_division":"Division",
+
     },
     dataGrid:{
         "infoCourt":"Information court",

@@ -421,6 +421,7 @@ export default {
         "staticWidth": "Статик өргөн",
         "destroyedCanBeRestored": "Устсаныг сэргээж болох",
         "paging": "Хуудаслалт",
+        "edit":"Засах",
 
         //endees
         "name": "Нэр",

@@ -388,7 +388,17 @@ export default {
         "Use_table_type":"Table Type хэрэглэх ",
         "Table_Type_field":"Table Type талбар",
         "Table_Type_value":"Table Type утга",
+        "Consolidation_forms_and_tables":"Маяг, хүснэгтийн нэгтгэл",
+        "_link":"Холбоос",
+        "iframe_page":"iframe хуудас",
+        "No_action":"Үйлдэлгүй",
+        "_division":"Хуваалт",
 
+
+        "sectiuon_add":"Хэсэг нэмэх",
+        "add_column":"Багана нэмэх",
+        "_delete":"Устгах",
+        "_move":"Зөөх",
     },
 
     dataGrid:{

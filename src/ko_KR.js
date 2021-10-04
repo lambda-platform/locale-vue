@@ -411,6 +411,11 @@ export default {
         "Use_table_type":"테이블 유형 사용",
         "Table_Type_field":"테이블 유형 필드",
         "Table_Type_value":"테이블 유형 값",
+
+        "sectiuon_add":"섹션 추가",
+        "add_column":"열 추가",
+        "_delete":"삭제",
+        "_move":"Move",
     },
     dataGrid:{
         "infoCourt":"정보 법원",

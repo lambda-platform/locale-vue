@@ -412,6 +412,11 @@ export default {
         "row_numbering":"Row numbering",
         "Table_Type_field":"Table Type field",
         "Table_Type_value":"Table Type value",
+
+        "sectiuon_add":"Section add",
+        "add_column":"Add a column",
+        "_delete":"Delete",
+        "_move":"Move",
     },
     dataGrid:{
         "infoCourt":"Information court",

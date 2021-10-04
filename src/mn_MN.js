@@ -389,6 +389,10 @@ export default {
         "Table_Type_field":"Table Type талбар",
         "Table_Type_value":"Table Type утга",
 
+        "sectiuon_add":"Хэсэг нэмэх",
+        "add_column":"Багана нэмэх",
+        "_delete":"Устгах",
+        "_move":"Зөөх",
     },
 
     dataGrid:{

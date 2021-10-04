@@ -157,7 +157,21 @@ export default {
         "profile_image":"프로필 이미지",
         "profile_image_uploud":"프로필 사진 업로드",
         "profile_desc":"프로필 사진을 선택하여 서버에 업로드하십시오. 이미지 크기는 1MB를 초과할 수 없습니다.",
-        "your_new_password":"Таны шинэ нууц үг",
+        "your_new_password":"새 비밀번호",
+        "password_desc":"비밀번호는 라틴 문자, 대문자 및 소문자, 숫자, 특수 문자로 공백 없이 입력해야 합니다.",
+        "rep_your_new_password":"새 비밀번호를 반복하세요.",
+        "_prev":"이전의",
+        "_next":"다음",
+        "enter_personal_information":"개인정보를 정확하게 입력해주세요!",
+        "enter_contact_information":"연락처를 정확하게 입력해주세요!",
+        "please_change_your_password":"비밀번호를 변경해주세요! 새 비밀번호는 앞으로 사용됩니다.",
+        "please_contact_system_administor":"도움이 필요하면 시스템 관리자에게 문의하세요.",
+        "back":"돌아가다",
+        "entered_information":"입력한 정보",
+        "information_alert":"귀하의 정보를 검토하고 정확한 경우 시스템에 보내주십시오.",
+        "no_information":"정보 없음",
+        "date_you_added_system":"시스템에 추가된 날짜",
+        "send_registration":"등록 보내기",
     },
     adminModule:{
         "db": "데이터베이스",
@@ -650,5 +664,14 @@ export default {
     page:{
         "pageNotFound": "페이지를 찾을 수 없습니다.",
 
+    },
+    crud:{
+        "registration_history": "등록 내역",
+        "Information_viewing_history": "정보 열람 이력",
+        "_add": "추가하다",
+        "_save": "구하다",
+        "re_call": "다시 전화하세요",
+        "_print": "인쇄",
+        "download_file": "엑셀 파일로 다운로드",
     },
 }

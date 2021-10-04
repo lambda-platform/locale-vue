@@ -399,6 +399,19 @@ export default {
         "add_column":"Багана нэмэх",
         "_delete":"Устгах",
         "_move":"Зөөх",
+
+        "downlaod": "Татах",
+        "view": "Харах",
+        "pleaseSelectFile": "файлаа сонгоно уу",
+        "longitude": "Уртраг",
+        "latitude": "Өргөрөг",
+        "cancel": "Болих",
+        "enterCoordinatesPressEnter": "Солбицол оо оруулаад 'Enter' дарна уу",
+        "clickHereSelectPhoto": "Энд дарж зургаа сонгоно уу!",
+        "notFound": "Олдсонгүй",
+        "confirmPassword": "Нууц үг баталгаажуулах",
+        "currentPassword": "Одоогын нууц үг",
+        "pleaseWriting": "бичнэ үү",
     },
 
     dataGrid:{

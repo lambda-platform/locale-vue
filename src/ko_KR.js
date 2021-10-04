@@ -424,6 +424,19 @@ export default {
         "No_action":"조치 없음",
         "_division":"분할",
 
+        "downlaod": "다운로드",
+        "view": "보다",
+        "pleaseSelectFile": "파일을 선택하세요",
+        "longitude": "경도",
+        "latitude": "위도",
+        "cancel": "취소",
+        "enterCoordinatesPressEnter": "좌표를 입력하고 'Enter' 를 누르십시오.",
+        "clickHereSelectPhoto": "사진을 선택하려면 여기를 클릭하세요!",
+        "notFound": "찾을 수 없음",
+        "confirmPassword": "비밀번호 확인",
+        "currentPassword": "현재 비밀번호",
+        "pleaseWriting": "써주세요",
+
     },
     dataGrid:{
         "infoCourt":"정보 법원",

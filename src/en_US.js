@@ -451,6 +451,7 @@ export default {
         "confirmPassword": "Confirm password",
         "currentPassword": "current password",
         "pleaseWriting": "please writing",
+        "fromCityCenter": "From the city center",
 
     },
     dataGrid:{

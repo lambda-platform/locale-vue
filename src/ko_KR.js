@@ -436,6 +436,7 @@ export default {
         "confirmPassword": "비밀번호 확인",
         "currentPassword": "현재 비밀번호",
         "pleaseWriting": "써주세요",
+        "fromCityCenter": "도심에서",
 
     },
     dataGrid:{

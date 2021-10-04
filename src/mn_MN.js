@@ -412,6 +412,8 @@ export default {
         "confirmPassword": "Нууц үг баталгаажуулах",
         "currentPassword": "Одоогын нууц үг",
         "pleaseWriting": "бичнэ үү",
+        "fromCityCenter": "Хотын төвөөс",
+
     },
 
     dataGrid:{

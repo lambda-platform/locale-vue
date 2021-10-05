@@ -411,6 +411,7 @@ export default {
         "Use_table_type":"테이블 유형 사용",
         "Table_Type_field":"테이블 유형 필드",
         "Table_Type_value":"테이블 유형 값",
+
         "Consolidation_forms_and_tables":"양식 및 테이블 통합",
         "_link":"링크",
         "iframe_page":"iframe 페이지",

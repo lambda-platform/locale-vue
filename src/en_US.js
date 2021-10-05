@@ -609,7 +609,6 @@ export default {
         "actionsField": "actions field",
         "performActionWithMouse": "Perform the action with the mouse",
         "renew": "renew",
-
         "tableHeaderTemplate": "Table header template",
         "createHeaderTemplate": "Create a header template",
         "addLine": "Add a line",
@@ -623,7 +622,6 @@ export default {
         "row": "row",
         "selectPaperSize": "select the paper size",
         "currencySelection": "currency selection",
-
         "tugrug": "tugrug",
         "dollar": "dollar",
         "euro": "euro",
@@ -631,6 +629,7 @@ export default {
         "austDollar": "Australian dollar",
         "rubli": "rouble",
         "choosevalue": "choose value",
+        "pleaseWaitForLoading": "please wait for loading",
     },
     dataSource:{
         "database": "Database",

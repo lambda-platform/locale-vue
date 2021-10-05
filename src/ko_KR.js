@@ -411,7 +411,6 @@ export default {
         "Use_table_type":"테이블 유형 사용",
         "Table_Type_field":"테이블 유형 필드",
         "Table_Type_value":"테이블 유형 값",
-
         "Consolidation_forms_and_tables":"양식 및 테이블 통합",
         "_link":"링크",
         "iframe_page":"iframe 페이지",
@@ -424,9 +423,6 @@ export default {
         "self": "본인",
         "blank": "공백",
         "_new": "새로운",
-
-
-
         "sectiuon_add":"섹션 추가",
         "add_column":"열 추가",
         "_delete":"삭제",
@@ -435,7 +431,6 @@ export default {
         "viewPhotos": "사진 보기",
         "createNumber": "번호 만들기",
         "other": "기타",
-
         "downlaod": "다운로드",
         "view": "보다",
         "pleaseSelectFile": "파일을 선택하세요",
@@ -449,7 +444,6 @@ export default {
         "currentPassword": "현재 비밀번호",
         "pleaseWriting": "써주세요",
         "fromCityCenter": "도심에서",
-
     },
     dataGrid:{
         "infoCourt":"정보 법원",
@@ -597,7 +591,6 @@ export default {
         "actionsField": "작업 필드",
         "performActionWithMouse": "마우스로 작업 수행",
         "renew": "고쳐 쓰다",
-
         "tableHeaderTemplate": "테이블 헤더 템플릿",
         "createHeaderTemplate": "헤더 템플릿 만들기",
         "addLine": "라인 추가",
@@ -618,6 +611,7 @@ export default {
         "austDollar": "호주 달러",
         "rubli": "루블",
         "choosevalue": "값 선택",
+        "pleaseWaitForLoading": "로딩을 기다려주세요",
     },
     dataSource:{
         "database": "데이터 베이스",

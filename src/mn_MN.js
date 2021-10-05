@@ -593,6 +593,8 @@ export default {
         "austDollar": "Австрали доллар",
         "rubli": "Рубль",
         "choosevalue": "Утга сонгох",
+        "pleaseWaitForLoading": "ачаалахыг хүлээнэ үү",
+
     },
     dataSource:{
         "database": "Өгөгдлийн сан ",

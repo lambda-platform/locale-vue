@@ -244,6 +244,7 @@ export default {
         "ui_builder":"UI builder",
         "_form":"Form",
         "someContents":"Some contents",
+        "_cancel":"Cancel",
     },
     chart:{
         "horizontal_value": "Horizontal value",
@@ -694,6 +695,7 @@ export default {
         "defaultMenu":"Default menu",
         "chart":"Chart",
         "tableName":"table name",
+        "table_name":"Table name",
     },
     project:{
         "project": "PROJECT",

@@ -424,6 +424,11 @@ export default {
         "add_column":"열 추가",
         "_delete":"삭제",
         "_move":"Move",
+        "graphicsManagement": "그래픽 관리",
+        "viewPhotos": "사진 보기",
+        "createNumber": "번호 만들기",
+        "other": "기타",
+
         "downlaod": "다운로드",
         "view": "보다",
         "pleaseSelectFile": "파일을 선택하세요",

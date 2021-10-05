@@ -399,6 +399,10 @@ export default {
         "add_column":"Багана нэмэх",
         "_delete":"Устгах",
         "_move":"Зөөх",
+        "graphicsManagement": "График удирдах",
+        "viewPhotos": "Зураг харах",
+        "createNumber": "Дугаар үүсгэх",
+        "other": "Бусад",
 
         "downlaod": "Татах",
         "view": "Харах",
@@ -413,6 +417,7 @@ export default {
         "currentPassword": "Одоогын нууц үг",
         "pleaseWriting": "бичнэ үү",
         "fromCityCenter": "Хотын төвөөс",
+
 
     },
 

@@ -416,7 +416,7 @@ export default {
         "sectiuon_add":"섹션 추가",
         "add_column":"열 추가",
         "_delete":"삭제",
-        "_move":"Move",
+        "_move":"이사",
 
         "Consolidation_forms_and_tables":"양식 및 테이블 통합",
         "_link":"링크",

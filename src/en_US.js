@@ -418,6 +418,13 @@ export default {
         "iframe_page":"iframe page",
         "No_action":"No action",
         "_division":"Division",
+        "menuType": "Menu type",
+        "connectionPath": "Connection path",
+        "name": "Name",
+        "target": "Target",
+        "self": "self",
+        "blank": "blank",
+        "_new": "new",
 
         "sectiuon_add":"Section add",
         "add_column":"Add a column",

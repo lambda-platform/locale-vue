@@ -393,6 +393,13 @@ export default {
         "iframe_page":"iframe хуудас",
         "No_action":"Үйлдэлгүй",
         "_division":"Хуваалт",
+        "menuType": "Цэсний төрөл",
+        "connectionPath": "Холбох зам",
+        "name": "Нэр",
+        "target": "Даалгавар",
+        "self": "өөрөө",
+        "blank": "хоосон",
+        "_new": "шинэ",
 
 
         "sectiuon_add":"Хэсэг нэмэх",

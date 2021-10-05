@@ -417,6 +417,13 @@ export default {
         "iframe_page":"iframe 페이지",
         "No_action":"조치 없음",
         "_division":"분할",
+        "menuType": "메뉴 종류",
+        "connectionPath": "연결 경로",
+        "name": "이름",
+        "target": "표적",
+        "self": "본인",
+        "blank": "공백",
+        "_new": "새로운",
 
 
 

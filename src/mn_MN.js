@@ -615,6 +615,7 @@ export default {
         "applications":"Програмууд",
         "errorOccurredWhileSaving":"Хадгалах явцад алдаа гарлаа!",
 
+
     },
     role:{
         "administraationRightsManagment": "ХАНДАХ ЭРХ УДИРДАХ",

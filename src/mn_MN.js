@@ -220,6 +220,7 @@ export default {
         "ui_builder":"UI бүтээгч",
         "_form":"Маягт",
         "someContents":"Зарим агуулга",
+        "_cancel":"Болих",
     },
     chart:{
         "horizontal_value": "Хөндлөн утга",
@@ -659,7 +660,8 @@ export default {
         "cancel":"Болих",
         "defaultMenu":"Анхдагч цэс",
         "chart":"График",
-        "tableName":"Хүснэгтийн нэр ",
+        "tableName":"Хүснэгтийн нэр",
+        "table_name":"Table нэр",
     },
     project:{
         "project": "ТӨСӨЛ",

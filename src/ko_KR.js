@@ -243,6 +243,7 @@ export default {
         "ui_builder":"UI 빌더",
         "_form":"형태",
         "someContents":"일부 내용",
+        "_cancel":"취소",
     },
     chart:{
         "horizontal_value": "수평 값",
@@ -675,6 +676,7 @@ export default {
         "defaultMenu":"기본 메뉴",
         "chart":"차트",
         "tableName":"테이블 이름",
+        "table_name":"Table 이름",
     },
     project:{
         "project": "프로젝트",

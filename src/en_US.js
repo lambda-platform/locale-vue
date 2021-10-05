@@ -430,6 +430,8 @@ export default {
         "add_column":"Add a column",
         "_delete":"Delete",
         "_move":"Move",
+        "graphicsManagement": "Graphics management",
+        "viewPhotos": "view photos",
 
         "downlaod	": "download",
         "view	": "view",
@@ -444,6 +446,8 @@ export default {
         "confirmPassword	": "Confirm password",
         "currentPassword	": "current password",
         "pleaseWriting	": "please writing",
+        "createNumber": "create number",
+        "other": "other",
 
         "downlaod": "download",
         "view": "view",

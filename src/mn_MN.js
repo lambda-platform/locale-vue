@@ -113,15 +113,11 @@ export default {
         "total": "Нийт",
         "edit":"Засах",
         "pleaseLogInUsingYourRegUnamePassword": "Та өөрийн бүртгэлтэй нэвтрэх нэр, нууц үгийг ашиглан нэвтэрнэ үү",
-
-
         "frequentlyAskedQuestions": "Түгээмэл асуулт",
         "toContaqt": "Холбоо барих",
         "downloadYourMobileApp": "Гар утасны аппликейшнээ татаарай",
         "instructionsUse": "Ашиглах заавар",
         "hayg": "Монгол улс, Улаанбаатар хот, Сүхбаатар дүүрэг 9-р хороо, их тойруу 54, Компьютер Молл, 8 давхар, 8002 тоот",
-
-
         "plseResUrPassUsingUrRegisteredEmail": "Та өөрийн бүртгэлтэй И-мэйл хаягаа ашиглан нууц үгээ сэргээнэ үү",
         "downloadAppHere": "Эндээс Апп татаарай",
 

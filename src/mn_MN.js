@@ -365,7 +365,7 @@ export default {
         "translation": "Орчуулга",
         "formula": "Томъёо",
         "userInterface": "Харагдах байдал",
-        "subform": "Дэд форм",
+        "_subform": "Дэд форм",
         "_form": "Форм",
         "formula_conditions": "Томъёо, Нөхцөл",
         "field": "Талбар",
@@ -401,6 +401,7 @@ export default {
         "self": "өөрөө",
         "blank": "хоосон",
         "_new": "шинэ",
+        "Get_name": "Нэр авах бол",
 
 
         "sectiuon_add":"Хэсэг нэмэх",

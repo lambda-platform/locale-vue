@@ -287,7 +287,7 @@ export default {
 
     },
     dataForm:{
-        "save":"Save ",
+        "save":"Save",
         "pleaseWait":"Please wait for a moment!",
         "fillInTheNewOne": "Fill in the new one",
         "close":"Close",
@@ -390,7 +390,7 @@ export default {
         "translation": "Translation",
         "formula": "Formula",
         "userInterface": "User interface",
-        "subform": "Subform",
+        "_subform": "Subform",
         "_form": "Form",
         "formula_conditions": "Formula, Conditions",
         "field": "Field",
@@ -426,6 +426,7 @@ export default {
         "self": "self",
         "blank": "blank",
         "_new": "new",
+        "Get_name": "Get a name",
 
         "sectiuon_add":"Section add",
         "add_column":"Add a column",

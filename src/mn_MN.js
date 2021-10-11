@@ -297,7 +297,7 @@ export default {
         "Whether_to_summarize":"Нэгтгэж харуулах эсэх",
         "Choose_a_formula":"Томъёо сонгох",
         "Formula_type":"Томъёо төрөл",
-        "Take_the_word_before_merger":"Нэгтгэлийн өмнө үг авах бол ",
+        "Take_the_word_before_merger":"Нэгтгэлийн өмнө үг авах бол",
         "example":"Жишээ нь ",
         "total":"нийт",
         "number":"тоо",

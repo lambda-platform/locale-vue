@@ -738,7 +738,7 @@ export default {
         "database": "Database",
         "database_connect": "Database connection",
         "ready": "Ready",
-        "_success": "I wish you success",
+        "_success": "I wish you a success",
         "type": "type",
         "manage_access_rights":"Manage access rights",
         "please_wait":"Please wait for a moment",

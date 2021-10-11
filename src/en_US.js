@@ -134,14 +134,11 @@ export default {
         "total": "total",
         "edit":"Edit",
         "pleaseLogInUsingYourRegUnamePassword": "Please log in using your registered username and password",
-
-
         "frequentlyAskedQuestions": "Frequently asked questions",
         "toContaqt": "to contact",
         "downloadYourMobileApp": "Download your mobile app",
         "instructionsUse": "Instructions for use",
         "hayg": "Mongolia, Ulaanbaatar, Sukhbaatar district, 9th khoroo, Ikh toiruu 54, Computer Mall, 8th floor, room 8002",
-
         "plseResUrPassUsingUrRegisteredEmail": "Please reset your password using your registered email address",
         "downloadAppHere": "Download the app here",
     },

@@ -132,7 +132,16 @@ export default {
         "errorOccurredWhileRetrievingData": "데이터를 검색하는 동안 오류가 발생했습니다",
         "total": "총",
         "edit":"편집하다",
+        "pleaseLogInUsingYourRegUnamePassword": "등록된 사용자 이름과 비밀번호를 사용하여 로그인하십시오.",
 
+        "frequentlyAskedQuestions": "자주 묻는 질문",
+        "toContaqt": "연락하다",
+        "downloadYourMobileApp": "모바일 앱 다운로드",
+        "instructionsUse": "사용 지침",
+        "hayg": "몽골, 울란바토르 시, 수흐바토르 지구, 9th khoroo, Ikh toiruu 54, Computer Mall, 8층, 8002호",
+
+        "plseResUrPassUsingUrRegisteredEmail": "등록된 이메일 주소를 사용하여 비밀번호를 재설정하세요.",
+        "downloadAppHere": "여기에서 앱 다운로드",
     },
     agent_wizard:{
         "confirm_registration_information":"등록 정보 확인",

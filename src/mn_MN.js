@@ -120,7 +120,6 @@ export default {
         "hayg": "Монгол улс, Улаанбаатар хот, Сүхбаатар дүүрэг 9-р хороо, их тойруу 54, Компьютер Молл, 8 давхар, 8002 тоот",
         "plseResUrPassUsingUrRegisteredEmail": "Та өөрийн бүртгэлтэй И-мэйл хаягаа ашиглан нууц үгээ сэргээнэ үү",
         "downloadAppHere": "Эндээс Апп татаарай",
-
     },
     agent_wizard:{
         "confirm_registration_information":"Бүртгэлийн мэдээлэл баталгаажуулах",
@@ -167,7 +166,6 @@ export default {
         "users":"Хэрэглэгчид",
         "userGroupsPermission":"Хандах эрх, Зөвшөөрөл",
         "sendDBSchema":"Өгөгдлийн сангийн бүтцийг илгээх",
-        "database": "Өгөгдлийн сан",
         "AddColumn":"Багана нэмэх",
         "systemUpdate":"Систем шинэчлэх",
         "graphic":"График",
@@ -304,6 +302,7 @@ export default {
         "Form_of_data_verification":"Өгөгдөл шалгах хэлбэр",
         "Password_settings":"Нүүц үгийн тохиргоо",
         "Password_verification":"Нууц үг баталгаажуулах",
+        "_pass":"Нууц үг",
         "Create_a_password":"Нууц үг үүсгэх",
         "Check_password_during_editing":"Засварлах үед нууц үг шалгах",
         "number_precision":"Орны нарийвчлал",
@@ -367,7 +366,7 @@ export default {
         "Form_width":"Формын өргөн",
         "Save_button_word":"Хадгалах товчний үг",
         "Padding_spacing":"Padding - зай авалт" ,
-        "model":"Модел",
+        "model":"Загвар",
         "displayName": "Харагдах нэр",
         "hide": "Нуух",
         "inactive": "Идэвхигүй",
@@ -386,7 +385,7 @@ export default {
         "before_insert": "Нэмэхийн өмнө",
         "after_insert": "Нэмсний дараа",
         "before_update": "Шинэчлэхийн өмнө",
-        "after_update": "Шинэчлэхийн дараа",
+        "after_update": "Шинэчлэгдсэний дараа",
         "_type":"Төрөл",
         "_top":"дээд",
         "_left":"зүүн",
@@ -395,9 +394,9 @@ export default {
         "Close_deletion_action":"Устгах үйлдэл хаах",
         "close_add_ons_action":"Нэмэх үйлдэл хаах",
         "row_numbering":"Мөрийн дугаарлалт",
-        "Use_table_type":"Table Type хэрэглэх ",
-        "Table_Type_field":"Table Type талбар",
-        "Table_Type_value":"Table Type утга",
+        "Use_table_type":"Хүснэгтийн төрлийг хэрэглэх",
+        "Table_Type_field":"Хүснэгтийн төрлийн талбар",
+        "Table_Type_value":"Хүснэгтийн төрлийн утга",
         "Consolidation_forms_and_tables":"Маяг, хүснэгтийн нэгтгэл",
         "_link":"Холбоос",
         "iframe_page":"iframe хуудас",
@@ -411,9 +410,7 @@ export default {
         "blank": "хоосон",
         "_new": "шинэ",
         "Get_name": "Нэр авах бол",
-
-
-        "sectiuon_add":"Хэсэг нэмэх",
+        "section_add":"Хэсэг нэмэх",
         "add_column":"Багана нэмэх",
         "_delete":"Устгах",
         "_move":"Зөөх",
@@ -421,24 +418,20 @@ export default {
         "viewPhotos": "Зураг харах",
         "createNumber": "Дугаар үүсгэх",
         "other": "Бусад",
-
-        "downlaod": "Татах",
+        "download": "Татах",
         "view": "Харах",
         "pleaseSelectFile": "файлаа сонгоно уу",
         "longitude": "Уртраг",
         "latitude": "Өргөрөг",
         "cancel": "Болих",
-        "enterCoordinatesPressEnter": "Солбицол оо оруулаад 'Enter' дарна уу",
+        "enterCoordinatesPressEnter": "Солбицолоо оруулаад 'Enter' дарна уу?",
         "clickHereSelectPhoto": "Энд дарж зургаа сонгоно уу!",
         "notFound": "Олдсонгүй",
         "confirmPassword": "Нууц үг баталгаажуулах",
         "currentPassword": "Одоогын нууц үг",
         "pleaseWriting": "бичнэ үү",
         "fromCityCenter": "Хотын төвөөс",
-
-
     },
-
     dataGrid:{
         "infoCourt":"Мэдээлэл шүүх",
         "filtering":"Шүүж харах",
@@ -639,8 +632,6 @@ export default {
         "selectTable":"Хүснэгт сонгох",
         "applications":"Програмууд",
         "errorOccurredWhileSaving":"Хадгалах явцад алдаа гарлаа!",
-
-
     },
     role:{
         "administraationRightsManagment": "ХАНДАХ ЭРХ УДИРДАХ",

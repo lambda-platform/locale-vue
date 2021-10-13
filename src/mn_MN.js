@@ -411,8 +411,6 @@ export default {
         "blank": "хоосон",
         "_new": "шинэ",
         "Get_name": "Нэр авах бол",
-
-
         "sectiuon_add":"Хэсэг нэмэх",
         "add_column":"Багана нэмэх",
         "_delete":"Устгах",
@@ -421,7 +419,6 @@ export default {
         "viewPhotos": "Зураг харах",
         "createNumber": "Дугаар үүсгэх",
         "other": "Бусад",
-
         "downlaod": "Татах",
         "view": "Харах",
         "pleaseSelectFile": "файлаа сонгоно уу",
@@ -435,7 +432,6 @@ export default {
         "currentPassword": "Одоогын нууц үг",
         "pleaseWriting": "бичнэ үү",
         "fromCityCenter": "Хотын төвөөс",
-
 
     },
 
@@ -605,6 +601,15 @@ export default {
         "rubli": "Рубль",
         "choosevalue": "Утга сонгох",
         "pleaseWaitForLoading": "ачаалахыг хүлээнэ үү",
+
+
+        "successfullySaved": "Амжилттай хадгалагдлаа",
+        "formInformationSavedSuccessfully.": "формын мэдээлэл амжилттай хадгалагдлаа.",
+        "anErrorOccurredWhileSaving": "Хадгалах үед алдаа гарлаа!",
+        "successfullyDeleted": "Амжилттай устгалаа!",
+
+
+
 
     },
     dataSource:{

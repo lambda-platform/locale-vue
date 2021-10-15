@@ -536,7 +536,6 @@ export default {
         "data_table": "Data table",
         "pleaseWait":"Please wait!",
         "save": "Save",
-
         "appearanceName": "Appearance name",
         "hide": "Hide",
         "court": "Court",

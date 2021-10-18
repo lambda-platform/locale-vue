@@ -627,6 +627,7 @@ export default {
         "formInformationSavedSuccessfully.": "양식 정보가 성공적으로 저장되었습니다.",
         "anErrorOccurredWhileSaving": "저장하는 동안 오류가 발생했습니다!",
         "successfullyDeleted": "성공적으로 삭제되었습니다!",
+        "makeExcel": "엑셀을 만들어라",
     },
     dataSource:{
         "database": "데이터 베이스",

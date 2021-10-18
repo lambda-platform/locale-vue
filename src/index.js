@@ -19,6 +19,7 @@ const loadedLanguages = ['mn_MN'];
 
 export const setI18nLanguage = (lang) => {
     i18n.locale = lang
+
     return lang
 }
 
@@ -44,8 +45,10 @@ export const loadLanguageAsync = (lang) => {
 
         return import(/* webpackChunkName: "[request]" */ `./${lang}`).then(
             messages => {
+
                 i18n.setLocaleMessage(lang, messages.default)
                 loadedLanguages.push(lang)
+
                 return setI18nLanguage(lang)
             }
         )

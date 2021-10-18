@@ -628,6 +628,7 @@ export default {
         "formInformationSavedSuccessfully.": "Form information saved successfully.",
         "anErrorOccurredWhileSaving": "An error occurred while saving!",
         "successfullyDeleted": "Successfully deleted!",
+        "makeExcel": "Make an excel",
     },
     dataSource:{
         "database": "Database",

@@ -196,6 +196,14 @@ export default {
         "form":"형태",
         "table":"테이블",
         "original_preparation": "원래 준비",
+        "pleaseWait":"잠시만 기다려주세요!",
+        "_form":"형태",
+        "value_column": "값 열",
+        "Custom_column ":"맞춤 열",
+        "list_grid": "목록 | 그리드",
+        "Judgment_column ":"필터 열",
+        "form_value":"형태 (가치를 취하다)",
+
     },
     graphql:{
         "graphqlManagement":"Graphql 관리",
@@ -629,6 +637,9 @@ export default {
         "anErrorOccurredWhileSaving": "저장하는 동안 오류가 발생했습니다!",
         "successfullyDeleted": "성공적으로 삭제되었습니다!",
         "makeExcel": "엑셀을 만들어라",
+        "plseEnterValue": "값을 입력하세요",
+        "updatedSuccessfully": "업데이트됨",
+        "infoDeleted": "삭제된 정보",
     },
     dataSource:{
         "database": "데이터 베이스",

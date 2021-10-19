@@ -196,6 +196,14 @@ export default {
         "form":"Form",
         "table":"Table",
         "original_preparation": "Original preparation",
+        "pleaseWait":"Please wait",
+        "_form":"Form",
+        "value_column": "Value column",
+        "Custom_column ":"Custom column",
+        "list_grid": "List | Grid",
+        "Judgment_column ":"Filter column",
+        "form_value":"Form (take value)",
+
     },
     graphql:{
         "graphqlManagement":"Graphql management",
@@ -629,6 +637,9 @@ export default {
         "anErrorOccurredWhileSaving": "An error occurred while saving!",
         "successfullyDeleted": "Successfully deleted!",
         "makeExcel": "Make an excel",
+        "plseEnterValue": "please enter a value",
+        "updatedSuccessfully": "updated succesfully",
+        "infoDeleted": "information deleted",
     },
     dataSource:{
         "database": "Database",

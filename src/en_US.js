@@ -449,7 +449,7 @@ export default {
         "clickHereSelectPhoto	": "Click here to select a photo!",
         "notFound": "not found",
         "confirmPassword": "Confirm password",
-        "currentPassword": "current password",
+        "currentPassword": "Current password",
         "pleaseWriting": "please writing",
         "fromCityCenter": "From the city center",
     },

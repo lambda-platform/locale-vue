@@ -869,7 +869,14 @@ export default {
         "pageNotFound": "페이지를 찾을 수 없습니다.",
     },
     alertMessage:{
-        "pageNotFound": "Хуудас олдсонгүй.",
+        "userDeleted": "사용자가 삭제되었습니다.",
+        "errorOccWhileDeleting": "삭제하는 동안 오류가 발생했습니다.",
+        "userInformationRe": "사용자 정보 복원",
+        "errorRetriev": "데이터를 검색하는 동안 오류가 발생했습니다!",
+        "notFound": "검색된 결과가 없습니다!",
+        "imformation_registered": "귀하의 정보가 성공적으로 등록되었습니다. 잠시만 기다려주세요",
+        "errorServer": "서버에서 오류가 발생했습니다",
+        "errorSendingMail": "이메일을 보내는 동안 오류가 발생했습니다",
     },
     crud:{
         "registration_history": "등록 내역",

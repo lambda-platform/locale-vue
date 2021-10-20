@@ -869,7 +869,14 @@ export default {
         "pageNotFound":"The Page can't be found",
     },
     alertMessage:{
-        "pageNotFound": "Хуудас олдсонгүй.",
+        "userDeleted": "The user has been deleted",
+        "errorOccWhileDeleting": "An error occurred while deleting",
+        "userInformationRe": "User information restored",
+        "errorRetriev": "An error occurred while restoring the data",
+        "notFound": "No search results found!",
+        "imformation_registered": "Your information has been successfully registered. Please wait for a moment",
+        "errorServer": "An error occurred on the server",
+        "errorSendingMail": "An error occurred while sending the email",
     },
     crud:{
         "registration_history": "Registration history",

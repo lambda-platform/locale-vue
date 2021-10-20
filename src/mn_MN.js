@@ -869,7 +869,14 @@ export default {
         "pageNotFound": "Хуудас олдсонгүй.",
     },
     alertMessage:{
-        "pageNotFound": "Хуудас олдсонгүй.",
+        "userDeleted": "Хэрэглэгч устгагдлаа",
+        "errorOccWhileDeleting": "Устгах үед алдаа гарлаа",
+        "userInformationRe": "Хэрэглэгчийн мэдээлэл сэргээгдлээ",
+        "errorRetriev": "Мэдээлэл сэргээхэд алдаа гарлаа!",
+        "notFound": "Хайлтанд илэрц олдсонгүй!",
+        "imformation_registered": "Таны мэдээлэл амжилттай бүртгэгдлээ. Түр хүлээнэ үү",
+        "errorServer": "Серверт алдаа гарлаа",
+        "errorSendingMail": "И-мэйл илгээх үед алдаа гарлаа",
     },
     crud:{
         "registration_history": "Бүртгэлийн түүх",

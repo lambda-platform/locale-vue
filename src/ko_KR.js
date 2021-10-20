@@ -228,6 +228,8 @@ export default {
         "viewList": "View 목록",
         "real_time": "실시간 구독",
         "cancel":"취소",
+        "tableParentId":"테이블 상위 ID",
+        "action":"동작",
     },
     components:{
         "add": "추가하다",
@@ -466,6 +468,10 @@ export default {
         "please_enter_formula": "수식을 입력하세요.",
         "savedSuccessfull": "공적으로 저장 되었음",
         "errorSaving": "저장하는 동안 오류가 발생했습니다!",
+        "formIformationSavedSuccessfull": "양식 정보가 성공적으로 저장되었습니다.",
+        "successDeleted": "성공적으로 삭제되었습니다!",
+        "selectDefaultMenu": "기본 메뉴 선택",
+        "selectMenu": "메뉴를 선택해주세요",
     },
     dataGrid:{
         "infoCourt":"정보 법원",
@@ -760,6 +766,8 @@ export default {
         "_confirm": "확인 하다",
         "deleteData":"데이터를 삭제하시겠습니까?",
         "form_value":"형태 (가치를 취하다)",
+        "alertSelectColumns":"적절한 열 선택",
+        "errorMsg":"죄송합니다, 오류가 발생했습니다",
     },
     puzzle:{
         "manage_access_rights":"접근 권한 관리",
@@ -845,6 +853,10 @@ export default {
         "save": "저장",
         "embedlink": "링크 삽입",
         "edit":"편집하다",
+        "phone":"핸드폰",
+        "tablet":"태블릿",
+        "computer":"컴퓨터",
+        "bigComputer":"큰 컴퓨터",
     },
     page:{
         "pageNotFound": "페이지를 찾을 수 없습니다.",

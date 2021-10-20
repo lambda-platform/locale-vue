@@ -228,6 +228,8 @@ export default {
         "viewList": "View list",
         "real_time": "Real time subscription",
         "cancel":"Cancel",
+        "tableParentId":"Table parent ID",
+        "action":"Action",
     },
     components:{
         "add": "Add",
@@ -466,6 +468,10 @@ export default {
         "please_enter_formula": "Please enter a formula",
         "savedSuccessfull": "Saved successfully",
         "errorSaving": "An error occurred while saving!",
+        "formIformationSavedSuccessfull": "form information saved successfully.",
+        "successDeleted": "successfullyDeleted",
+        "selectDefaultMenu": "Select the default menu!",
+        "selectMenu": "Please select a menu",
     },
     dataGrid:{
         "infoCourt":"Information court",
@@ -640,7 +646,7 @@ export default {
         "successfullySaved": "Successfully saved.",
         "formInformationSavedSuccessfully.": "Form information saved successfully.",
         "anErrorOccurredWhileSaving": "An error occurred while saving!",
-        "successfullyDeleted": "Successfully deleted!",
+        "successfullyDeleted": "successfullyDeleted",
         "makeExcel": "Make an excel",
         "plseEnterValue": "please enter a value",
         "updatedSuccessfully": "updated succesfully",
@@ -760,6 +766,8 @@ export default {
         "_confirm": "Confirm",
         "deleteData":"Are you sure you want to delete your data?",
         "form_value":"Form (take value)",
+        "alertSelectColumns":"Select the appropriate columns",
+        "errorMsg":"Sorry, an error occurred",
     },
     puzzle:{
         "manage_access_rights":"Manage access rights",
@@ -845,6 +853,10 @@ export default {
         "save": "save",
         "embedlink": "Embed link",
         "edit":"Edit",
+        "phone":"Phone",
+        "tablet":"Tablet",
+        "computer":"Computer",
+        "bigComputer":"Big computer",
     },
     page:{
         "pageNotFound":"The Page can't be found",

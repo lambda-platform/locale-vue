@@ -228,6 +228,8 @@ export default {
         "viewList": "View жагсаалт",
         "real_time": "Бодит цагийн захиалга",
         "cancel":"Болих",
+        "tableParentId":"Эцэг хүснэгтийн ID",
+        "action":"Үйлдэл",
     },
     components:{
         "add": "Нэмэх",
@@ -466,6 +468,10 @@ export default {
         "please_enter_formula": "Томъёогоо оруулна уу",
         "savedSuccessfull": "Амжилттай хадгаллаа",
         "errorSaving": "Хадгалах үед алдаа гарлаа!",
+        "formIformationSavedSuccessfull": "формын мэдээлэл амжилттай хадгалагдлаа.",
+        "successDeleted": "Амжилттай устгалаа!",
+        "selectDefaultMenu": "Анхдагч цэс сонгоно уу",
+        "selectMenu": "Цэс сонгоно уу",
     },
     dataGrid:{
         "infoCourt":"Мэдээлэл шүүх",
@@ -760,6 +766,8 @@ export default {
         "_confirm": "Баталгаажуулах",
         "deleteData":"Өгөгдөлийг устгах уу?",
         "form_value":"Форм (Авах утга)",
+        "alertSelectColumns":"Харгалзах багнуудыг сонгоно уу",
+        "errorMsg":"Уучлаарай алдаа гарлаа",
     },
     puzzle:{
         "manage_access_rights":"Хандах эрх удирдах",
@@ -841,10 +849,14 @@ export default {
     },
     moqup:{
         "elements":"Элемэнтүүд",
-        "chart":"Чарт",
+        "chart":"График",
         "save": "Хадгалах",
         "embedlink": "Embed холбоос",
         "edit":"Засах",
+        "phone":"Утас",
+        "tablet":"Таблет",
+        "computer":"Компьютер",
+        "bigComputer":"Том компьютер",
     },
     page:{
         "pageNotFound": "Хуудас олдсонгүй.",

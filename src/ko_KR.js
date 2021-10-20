@@ -868,6 +868,9 @@ export default {
     page:{
         "pageNotFound": "페이지를 찾을 수 없습니다.",
     },
+    alertMessage:{
+        "pageNotFound": "Хуудас олдсонгүй.",
+    },
     crud:{
         "registration_history": "등록 내역",
         "Information_viewing_history": "정보 열람 이력",

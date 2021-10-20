@@ -868,6 +868,9 @@ export default {
     page:{
         "pageNotFound":"The Page can't be found",
     },
+    alertMessage:{
+        "pageNotFound": "Хуудас олдсонгүй.",
+    },
     crud:{
         "registration_history": "Registration history",
         "Information_viewing_history": "Information viewing history",

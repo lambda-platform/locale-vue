@@ -868,6 +868,9 @@ export default {
     page:{
         "pageNotFound": "Хуудас олдсонгүй.",
     },
+    alertMessage:{
+        "pageNotFound": "Хуудас олдсонгүй.",
+    },
     crud:{
         "registration_history": "Бүртгэлийн түүх",
         "Information_viewing_history": "Мэдээлэл үзсэн түүх",

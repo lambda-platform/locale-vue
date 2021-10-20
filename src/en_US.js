@@ -653,6 +653,11 @@ export default {
         "infoDeleted": "information deleted",
         "tableDataHasBeenSuccessfullyEdited": " table data has been successfully edited",
         "formInfoSavedSuccessfully": " form information saved successfully.",
+        "errorOccurredWhileUpdating": " An error occurred while updating.",
+        "pleaseSelectUpdateLine": " Please select an update line.",
+        "errorOccWhileDeleting": "An error occurred while deleting",
+        "errorMsg":"Sorry, an error occurred",
+        "noChangesHaveBeenReported":"No changes have been reported",
     },
     dataSource:{
         "database": "Database",

@@ -653,6 +653,11 @@ export default {
         "infoDeleted": "삭제된 정보",
         "tableDataHasBeenSuccessfullyEdited": " 테이블 데이터가 성공적으로 편집되었습니다.",
         "formInfoSavedSuccessfully": "  양식 정보가 성공적으로 저장되었습니다.",
+        "errorOccurredWhileUpdating": " 업데이트하는 동안 오류가 발생했습니다.",
+        "pleaseSelectUpdateLine": " 업데이트 라인을 선택하세요.",
+        "errorOccWhileDeleting": "삭제하는 동안 오류가 발생했습니다.",
+        "errorMsg":"죄송합니다, 오류가 발생했습니다",
+        "noChangesHaveBeenReported":"보고된 변경 사항이 없습니다.",
     },
     dataSource:{
         "database": "데이터 베이스",

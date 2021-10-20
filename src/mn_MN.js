@@ -653,6 +653,11 @@ export default {
         "infoDeleted": "Мэдээлэл устлаа",
         "tableDataHasBeenSuccessfullyEdited": "хүснэгтийн мэдээлэл амжилттай засагдлаа.",
         "formInfoSavedSuccessfully": " формын мэдээлэл амжилттай хадгалагдлаа.",
+        "errorOccurredWhileUpdating": " Шинэчлэх үед алдаа гарлаа.",
+        "pleaseSelectUpdateLine": " Шинэчлэх мөрөө сонгоно уу.",
+        "errorOccWhileDeleting": "Устгах үед алдаа гарлаа",
+        "errorMsg":"Уучлаарай алдаа гарлаа",
+        "noChangesHaveBeenReported":"Өөрчлөлт орсон мэдээлэл байхгүй байна",
     },
     dataSource:{
         "database": "Өгөгдлийн сан ",

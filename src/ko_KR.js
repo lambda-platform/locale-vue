@@ -1,3 +1,4 @@
+import iviewLocale from 'iview/src/locale/lang/ko-KR';
 export default {
     locale: 'ko-KR',
     user:{
@@ -195,6 +196,14 @@ export default {
         "form":"형태",
         "table":"테이블",
         "original_preparation": "원래 준비",
+        "pleaseWait":"잠시만 기다려주세요!",
+        "_form":"형태",
+        "value_column": "값 열",
+        "Custom_column ":"맞춤 열",
+        "list_grid": "목록 | 그리드",
+        "Judgment_column ":"필터 열",
+        "form_value":"형태 (가치를 취하다)",
+
     },
     graphql:{
         "graphqlManagement":"Graphql 관리",
@@ -219,6 +228,8 @@ export default {
         "viewList": "View 목록",
         "real_time": "실시간 구독",
         "cancel":"취소",
+        "tableParentId":"테이블 상위 ID",
+        "action":"동작",
     },
     components:{
         "add": "추가하다",
@@ -452,6 +463,20 @@ export default {
         "currentPassword": "현재 비밀번호",
         "pleaseWriting": "써주세요",
         "fromCityCenter": "도심에서",
+        "please_enter_value": "값을 입력하세요",
+        "formInformationSavedSuccessfully": "양식 정보가 성공적으로 저장되었습니다.",
+        "please_enter_formula": "수식을 입력하세요.",
+        "savedSuccessfull": "공적으로 저장 되었음",
+        "errorSaving": "저장하는 동안 오류가 발생했습니다!",
+        "formIformationSavedSuccessfull": "양식 정보가 성공적으로 저장되었습니다.",
+        "successDeleted": "성공적으로 삭제되었습니다!",
+        "selectDefaultMenu": "기본 메뉴 선택",
+        "selectMenu": "메뉴를 선택해주세요",
+        "pleaseEnterPasswordYouUCurrentlyUsing": "현재 사용 중인 비밀번호를 입력하세요.",
+        "pleaseReEnterYourPassword": "비밀번호를 다시 입력하시겠습니까?",
+        "passwordConfirmError": "비밀번호가 일치하지 않습니다!",
+        "informationIsIncomplete": "정보가 불완전합니다",
+        "trRMandatoryFieldsFillInformationLookFormAFillRequiredFieldsWithRedBorder": "정보를 입력해야 하는 필수 필드가 있습니다. 양식을 보고 빨간색 테두리가 있는 필수 필드를 채우십시오!",
     },
     dataGrid:{
         "infoCourt":"정보 법원",
@@ -628,6 +653,16 @@ export default {
         "anErrorOccurredWhileSaving": "저장하는 동안 오류가 발생했습니다!",
         "successfullyDeleted": "성공적으로 삭제되었습니다!",
         "makeExcel": "엑셀을 만들어라",
+        "plseEnterValue": "값을 입력하세요",
+        "updatedSuccessfully": "업데이트됨",
+        "infoDeleted": "삭제된 정보",
+        "tableDataHasBeenSuccessfullyEdited": " 테이블 데이터가 성공적으로 편집되었습니다.",
+        "formInfoSavedSuccessfully": "  양식 정보가 성공적으로 저장되었습니다.",
+        "errorOccurredWhileUpdating": " 업데이트하는 동안 오류가 발생했습니다.",
+        "pleaseSelectUpdateLine": " 업데이트 라인을 선택하세요.",
+        "errorOccWhileDeleting": "삭제하는 동안 오류가 발생했습니다.",
+        "errorMsg":"죄송합니다, 오류가 발생했습니다",
+        "noChangesHaveBeenReported":"보고된 변경 사항이 없습니다.",
     },
     dataSource:{
         "database": "데이터 베이스",
@@ -727,7 +762,6 @@ export default {
         "_success": "나는 당신에게 성공을 기원합니다",
         "type": "유형",
         "manage_access_rights":"접근 권한 관리",
-        "please_wait":"잠시만 기다려주세요!",
         "add":"추가하다",
         "menuSelection": "메뉴 선택",
         "default_menu": "기본 메뉴",
@@ -742,7 +776,6 @@ export default {
         "register": "등록하다",
         "_confirm": "확인 하다",
         "deleteData":"데이터를 삭제하시겠습니까?",
-        "form_value":"형태 (가치를 취하다)",
     },
     puzzle:{
         "manage_access_rights":"접근 권한 관리",
@@ -828,9 +861,47 @@ export default {
         "save": "저장",
         "embedlink": "링크 삽입",
         "edit":"편집하다",
+        "phone":"핸드폰",
+        "tablet":"태블릿",
+        "computer":"컴퓨터",
+        "bigComputer":"큰 컴퓨터",
     },
     page:{
         "pageNotFound": "페이지를 찾을 수 없습니다.",
+    },
+    alertMessage:{
+        "anErrorOccurredWhileSaving": "저장하는 동안 오류가 발생했습니다!",
+        "successfullyDeleted": "성공적으로 삭제되었습니다!",
+        "plseEnterValue": "값을 입력하세요",
+        "updatedSuccessfully": "업데이트됨",
+        "infoDeleted": "삭제된 정보",
+        "savedSuccessfull": "공적으로 저장 되었음",
+        "confirm": "확인하다",
+        "errorOccurredWhileUpdating": " 업데이트하는 동안 오류가 발생했습니다.",
+        "pleaseSelectUpdateLine": " 업데이트 라인을 선택하세요.",
+        "noChangesHaveBeenReported":"보고된 변경 사항이 없습니다.",
+        "pleaseWait":"잠시만 기다려주세요!",
+        "pageNotFound": "페이지를 찾을 수 없습니다.",
+        "userDeleted": "사용자가 삭제되었습니다.",
+        "errorOccWhileDeleting": "삭제하는 동안 오류가 발생했습니다.",
+        "userInformationRe": "사용자 정보 복원",
+        "errorRetriev": "데이터를 검색하는 동안 오류가 발생했습니다!",
+        "notFound": "검색된 결과가 없습니다!",
+        "imformation_registered": "귀하의 정보가 성공적으로 등록되었습니다. 잠시만 기다려주세요",
+        "errorServer": "서버에서 오류가 발생했습니다",
+        "errorSendingMail": "이메일을 보내는 동안 오류가 발생했습니다",
+        "please_enter_value": "값을 입력하세요",
+        "formInformationSavedSuccessfully": "양식 정보가 성공적으로 저장되었습니다.",
+        "please_enter_formula": "수식을 입력하세요.",
+        "errorSaving": "저장하는 동안 오류가 발생했습니다!",
+        "formIformationSavedSuccessfull": "양식 정보가 성공적으로 저장되었습니다.",
+        "successDeleted": "성공적으로 삭제되었습니다!",
+        "selectDefaultMenu": "기본 메뉴 선택",
+        "selectMenu": "메뉴를 선택해주세요",
+        "please_wait":"잠시만 기다려주세요!",
+        "form_value":"형태 (가치를 취하다)",
+        "alertSelectColumns":"적절한 열 선택",
+        "errorMsg":"죄송합니다, 오류가 발생했습니다",
     },
     crud:{
         "registration_history": "등록 내역",
@@ -841,110 +912,5 @@ export default {
         "_print": "인쇄",
         "download_file": "엑셀 파일로 다운로드",
     },
-    i: {
-        locale: 'ko-KR',
-        select: {
-            placeholder: '선택',
-            noMatch: '일치하는 데이터 없음',
-            loading: '로딩'
-        },
-        table: {
-            noDataText: '데이터 없음',
-            noFilteredDataText: '필터된 데이터 없음',
-            confirmFilter: '확인',
-            resetFilter: '초기화',
-            clearFilter: '전부'
-        },
-        datepicker: {
-            selectDate: '날짜 선택',
-            selectTime: '시간 선택',
-            startTime: '시작 시간',
-            endTime: '종료 시간',
-            clear: '삭제',
-            ok: '예',
-            datePanelLabel: '[yyyy년] [m월]',
-            month: '월',
-            month1: '1월',
-            month2: '2월',
-            month3: '3월',
-            month4: '4월',
-            month5: '5월',
-            month6: '6월',
-            month7: '7월',
-            month8: '8월',
-            month9: '9월',
-            month10: '10월',
-            month11: '11월',
-            month12: '12월',
-            year: '년',
-            weekStartDay: '0',
-            weeks: {
-                sun: '일',
-                mon: '월',
-                tue: '화',
-                wed: '수',
-                thu: '목',
-                fri: '금',
-                sat: '토'
-            },
-            months: {
-                m1: '1월',
-                m2: '2월',
-                m3: '3월',
-                m4: '4월',
-                m5: '5월',
-                m6: '6월',
-                m7: '7월',
-                m8: '8월',
-                m9: '9월',
-                m10: '10월',
-                m11: '11월',
-                m12: '12월'
-            }
-        },
-        transfer: {
-            titles: {
-                source: '소스',
-                target: '타겟'
-            },
-            filterPlaceholder: '여기서 찾기',
-            notFoundText: '아무 것도 찾을 수 없음'
-        },
-        modal: {
-            okText: '예',
-            cancelText: '취소'
-        },
-        poptip: {
-            okText: '예',
-            cancelText: '취소'
-        },
-        page: {
-            prev: '이전 페이지',
-            next: '다음 페이지',
-            total: '전체',
-            item: '항목',
-            items: '항목',
-            prev5: '이전 5 페이지',
-            next5: '다음 5 페이지',
-            page: '/페이지',
-            goto: '이동',
-            p: ''
-        },
-        rate: {
-            star: '중요',
-            stars: '중요'
-        },
-        time: {
-            before: ' 전',
-            after: ' 후',
-            just: '방금',
-            seconds: ' 초',
-            minutes: ' 분',
-            hours: ' 시간',
-            days: ' 일'
-        },
-        tree: {
-            emptyText: '데이터 없음'
-        }
-    }
+    i: {...iviewLocale.i}
 }

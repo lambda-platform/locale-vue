@@ -1,3 +1,4 @@
+import iviewLocale from 'iview/src/locale/lang/en-US';
 export default {
     locale: 'en-US',
     user:{
@@ -195,6 +196,14 @@ export default {
         "form":"Form",
         "table":"Table",
         "original_preparation": "Original preparation",
+        "pleaseWait":"Please wait",
+        "_form":"Form",
+        "value_column": "Value column",
+        "Custom_column ":"Custom column",
+        "list_grid": "List | Grid",
+        "Judgment_column ":"Filter column",
+        "form_value":"Form (take value)",
+
     },
     graphql:{
         "graphqlManagement":"Graphql management",
@@ -219,6 +228,8 @@ export default {
         "viewList": "View list",
         "real_time": "Real time subscription",
         "cancel":"Cancel",
+        "tableParentId":"Table parent ID",
+        "action":"Action",
     },
     components:{
         "add": "Add",
@@ -452,6 +463,20 @@ export default {
         "currentPassword": "Current password",
         "pleaseWriting": "please writing",
         "fromCityCenter": "From the city center",
+        "please_enter_value": "Please enter a value",
+        "formInformationSavedSuccessfully": "Form information saved successfully.",
+        "please_enter_formula": "Please enter a formula",
+        "savedSuccessfull": "Saved successfully",
+        "errorSaving": "An error occurred while saving!",
+        "formIformationSavedSuccessfull": "form information saved successfully.",
+        "successDeleted": "successfullyDeleted",
+        "selectDefaultMenu": "Select the default menu!",
+        "selectMenu": "Please select a menu",
+        "pleaseEnterPasswordYouUCurrentlyUsing": "Please enter the password you are currently using",
+        "pleaseReEnterYourPassword": "Re-enter your password?",
+        "passwordConfirmError": "Password authentication did not match !!!",
+        "informationIsIncomplete": "The information is incomplete",
+        "trRMandatoryFieldsFillInformationLookFormAFillRequiredFieldsWithRedBorder": "There are mandatory fields to fill in the information. Look at the form and fill in the required fields with a red border!",
     },
     dataGrid:{
         "infoCourt":"Information court",
@@ -626,8 +651,18 @@ export default {
         "successfullySaved": "Successfully saved.",
         "formInformationSavedSuccessfully.": "Form information saved successfully.",
         "anErrorOccurredWhileSaving": "An error occurred while saving!",
-        "successfullyDeleted": "Successfully deleted!",
+        "successfullyDeleted": "successfullyDeleted",
         "makeExcel": "Make an excel",
+        "plseEnterValue": "please enter a value",
+        "updatedSuccessfully": "updated succesfully",
+        "infoDeleted": "information deleted",
+        "tableDataHasBeenSuccessfullyEdited": " table data has been successfully edited",
+        "formInfoSavedSuccessfully": " form information saved successfully.",
+        "errorOccurredWhileUpdating": " An error occurred while updating.",
+        "pleaseSelectUpdateLine": " Please select an update line.",
+        "errorOccWhileDeleting": "An error occurred while deleting",
+        "errorMsg":"Sorry, an error occurred",
+        "noChangesHaveBeenReported":"No changes have been reported",
     },
     dataSource:{
         "database": "Database",
@@ -727,7 +762,6 @@ export default {
         "_success": "I wish you a success",
         "type": "type",
         "manage_access_rights":"Manage access rights",
-        "please_wait":"Please wait for a moment",
         "add":"Add",
         "menuSelection": "Menu selection",
         "default_menu": "Default menu",
@@ -742,7 +776,6 @@ export default {
         "register": "Register",
         "_confirm": "Confirm",
         "deleteData":"Are you sure you want to delete your data?",
-        "form_value":"Form (take value)",
     },
     puzzle:{
         "manage_access_rights":"Manage access rights",
@@ -828,9 +861,47 @@ export default {
         "save": "save",
         "embedlink": "Embed link",
         "edit":"Edit",
+        "phone":"Phone",
+        "tablet":"Tablet",
+        "computer":"Computer",
+        "bigComputer":"Big computer",
     },
     page:{
         "pageNotFound":"The Page can't be found",
+    },
+    alertMessage:{
+        "anErrorOccurredWhileSaving": "An error occurred while saving!",
+        "successfullyDeleted": "successfullyDeleted",
+        "plseEnterValue": "please enter a value",
+        "updatedSuccessfully": "updated succesfully",
+        "infoDeleted": "information deleted",
+        "savedSuccessfull": "Saved successfully",
+        "confirm": "Confirm",
+        "errorOccurredWhileUpdating": " An error occurred while updating.",
+        "pleaseSelectUpdateLine": " Please select an update line.",
+        "noChangesHaveBeenReported":"No changes have been reported",
+        "pleaseWait":"Please wait",
+        "pageNotFound":"The Page can't be found",
+        "userDeleted": "The user has been deleted",
+        "errorOccWhileDeleting": "An error occurred while deleting",
+        "userInformationRe": "User information restored",
+        "errorRetriev": "An error occurred while restoring the data",
+        "notFound": "No search results found!",
+        "imformation_registered": "Your information has been successfully registered. Please wait for a moment",
+        "errorServer": "An error occurred on the server",
+        "errorSendingMail": "An error occurred while sending the email",
+        "please_enter_value": "Please enter a value",
+        "formInformationSavedSuccessfully": "Form information saved successfully.",
+        "please_enter_formula": "Please enter a formula",
+        "errorSaving": "An error occurred while saving!",
+        "formIformationSavedSuccessfull": "form information saved successfully.",
+        "successDeleted": "successfullyDeleted",
+        "selectDefaultMenu": "Select the default menu!",
+        "selectMenu": "Please select a menu",
+        "please_wait":"Please wait for a moment",
+        "form_value":"Form (take value)",
+        "alertSelectColumns":"Select the appropriate columns",
+        "errorMsg":"Sorry, an error occurred",
     },
     crud:{
         "registration_history": "Registration history",
@@ -841,110 +912,5 @@ export default {
         "_print": "Print",
         "download_file": "Download as an Excel file",
     },
-    i: {
-        locale: 'en-US',
-        select: {
-            placeholder: 'Select',
-            noMatch: 'No matching data',
-            loading: 'Loading'
-        },
-        table: {
-            noDataText: 'No Data',
-            noFilteredDataText: 'No filter data',
-            confirmFilter: 'Confirm',
-            resetFilter: 'Reset',
-            clearFilter: 'All'
-        },
-        datepicker: {
-            selectDate: 'Select date',
-            selectTime: 'Select time',
-            startTime: 'Start Time',
-            endTime: 'End Time',
-            clear: 'Clear',
-            ok: 'OK',
-            datePanelLabel: '[mmmm] [yyyy]',
-            month: 'Month',
-            month1: 'January',
-            month2: 'February',
-            month3: 'March',
-            month4: 'April',
-            month5: 'May',
-            month6: 'June',
-            month7: 'July',
-            month8: 'August',
-            month9: 'September',
-            month10: 'October',
-            month11: 'November',
-            month12: 'December',
-            year: 'Year',
-            weekStartDay: '0',
-            weeks: {
-                sun: 'Sun',
-                mon: 'Mon',
-                tue: 'Tue',
-                wed: 'Wed',
-                thu: 'Thu',
-                fri: 'Fri',
-                sat: 'Sat'
-            },
-            months: {
-                m1: 'Jan',
-                m2: 'Feb',
-                m3: 'Mar',
-                m4: 'Apr',
-                m5: 'May',
-                m6: 'Jun',
-                m7: 'Jul',
-                m8: 'Aug',
-                m9: 'Sep',
-                m10: 'Oct',
-                m11: 'Nov',
-                m12: 'Dec'
-            }
-        },
-        transfer: {
-            titles: {
-                source: 'Source',
-                target: 'Target'
-            },
-            filterPlaceholder: 'Search here',
-            notFoundText: 'Not Found'
-        },
-        modal: {
-            okText: 'OK',
-            cancelText: 'Cancel'
-        },
-        poptip: {
-            okText: 'OK',
-            cancelText: 'Cancel'
-        },
-        page: {
-            prev: 'Previous Page',
-            next: 'Next Page',
-            total: 'Total',
-            item: 'item',
-            items: 'items',
-            prev5: 'Previous 5 Pages',
-            next5: 'Next 5 Pages',
-            page: '/page',
-            goto: 'Goto',
-            p: ''
-        },
-        rate: {
-            star: 'Star',
-            stars: 'Stars'
-        },
-        time: {
-            before: ' ago',
-            after: ' after',
-            just: 'just now',
-            seconds: ' seconds',
-            minutes: ' minutes',
-            hours: ' hours',
-            days: ' days'
-        },
-        tree: {
-            emptyText: 'No Data'
-        }
-    }
+    i: {...iviewLocale.i}
 }

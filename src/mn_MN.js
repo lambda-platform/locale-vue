@@ -1,3 +1,5 @@
+import iviewLocale from 'iview/src/locale/lang/mn-MN';
+
 export default {
     locale: 'mn-MN',
     user:{
@@ -49,7 +51,7 @@ export default {
         "use": "Ашиглах",
         "grouping":"Бүлэглэх",
         "type": "Төрөл",
-        "alias": "별명",
+        "alias": "Зохиомол нэр",
         "dataProcessing": "Өгөгдөл боловсруулах",
         "select": "Сонгоно уу",
         "pleaseEnterSearchValue": "Хайх утгаа оруулна уу...",
@@ -195,6 +197,13 @@ export default {
         "form":"Маягт",
         "table":"Хүснэгт",
         "original_preparation": "Эх бэлтгэл",
+        "pleaseWait":"Түр хүлээнэ үү!",
+        "_form": "Форм",
+        "value_column": "Утга багана",
+        "Custom_column":"Хэрэглэгчийн багана",
+        "list_grid": "Жагсаалт | Grid (шүүлтүүр)",
+        "Judgment_column":"Шүүлт хийх багана",
+        "form_value":"Форм (Авах утга)",
     },
     graphql:{
         "graphqlManagement":"Graphql удирдлага",
@@ -219,6 +228,8 @@ export default {
         "viewList": "View жагсаалт",
         "real_time": "Бодит цагийн захиалга",
         "cancel":"Болих",
+        "tableParentId":"Эцэг хүснэгтийн ID",
+        "action":"Үйлдэл",
     },
     components:{
         "add": "Нэмэх",
@@ -452,6 +463,21 @@ export default {
         "currentPassword": "Одоогын нууц үг",
         "pleaseWriting": "бичнэ үү",
         "fromCityCenter": "Хотын төвөөс",
+        "please_enter_value": "Утга оруулна уу",
+        "formInformationSavedSuccessfully": "Формын мэдээлэл амжилттай хадгалагдлаа.",
+        "please_enter_formula": "Томъёогоо оруулна уу",
+        "savedSuccessfull": "Амжилттай хадгаллаа",
+        "errorSaving": "Хадгалах үед алдаа гарлаа!",
+        "formIformationSavedSuccessfull": "формын мэдээлэл амжилттай хадгалагдлаа.",
+        "successDeleted": "Амжилттай устгалаа!",
+        "selectDefaultMenu": "Анхдагч цэс сонгоно уу",
+        "selectMenu": "Цэс сонгоно уу",
+        "pleaseEnterPasswordYouUCurrentlyUsing": "Одоо хэрэглэж байгаа нууц үг ээ оруулна уу",
+        "pleaseReEnterYourPassword": "Нууц үгээ дахин оруулна уу?",
+        "passwordConfirmError": "Нууц үг баталгаажуулалт таарсангүй !!!",
+        "informationIsIncomplete": "Мэдээлэл дутуу бөглөсөн байна",
+        "trRMandatoryFieldsFillInformationLookFormAFillRequiredFieldsWithRedBorder": "Мэдээлэл бөглөх явцад заавал бөглөх хэсгүүд байна. Формыг хараад улаан хүрээтэй заавал бөглөгдөх хэсгүүдийг гүйцээж бөглөнө үү!",
+
     },
     dataGrid:{
         "infoCourt":"Мэдээлэл шүүх",
@@ -545,7 +571,7 @@ export default {
         "tobePublished": "Хэвлэгдэх",
         "updateSelectedLineData": "Сонгосон мөрийн өгөдөл шинэчлэх",
         "whenEnteringDataFromExcelFile": "Эксел файлаас өгөгдөл оруулах бол",
-        "Filtersettings	": "Шүүлтүүр тохиргоо",
+        "filtersettings	": "Шүүлтүүр тохиргоо",
         "excel": "Эксел",
         "model": "Загвар",
         "updateSelectedLineDataSettings": "Сонгосон мөрийн өгөдөл шинэчлэх тохиргоо",
@@ -586,9 +612,9 @@ export default {
         "size": "Хэмжээ",
         "controllerNameSpace": "Удирдлагын боломжит үйлдлүүд",
         "namespace": "Нэрийн орон зай",
-        "BeforeFetch": "Авахаас өмнө",
-        "AfterFetch": "Авсны дараа",
-        "Symbol":"Тэмдэг",
+        "beforeFetch": "Авахаас өмнө",
+        "afterFetch": "Авсны дараа",
+        "symbol":"Тэмдэг",
         "type": "Төрөл",
         "nickName": "Харагдах нэр",
         "filtersAndSelectedLineSettings" : "Шүүлтүүр, сонгосон мөрийн тохиргоо",
@@ -624,10 +650,20 @@ export default {
         "choosevalue": "Утга сонгох",
         "pleaseWaitForLoading": "ачаалахыг хүлээнэ үү",
         "successfullySaved": "Амжилттай хадгалагдлаа.",
-        "formInformationSavedSuccessfully.": "Формын мэдээлэл амжилттай хадгалагдлаа.",
+        "formInformationSavedSuccessfully": "Формын мэдээлэл амжилттай хадгалагдлаа.",
         "anErrorOccurredWhileSaving": "Хадгалах үед алдаа гарлаа!",
         "successfullyDeleted": "Амжилттай устгалаа!",
         "makeExcel": "Эксэл гаргах",
+        "plseEnterValue": "Утга оруулна уу",
+        "updatedSuccessfully": "Амжилттай шинэчлэгдлээ",
+        "infoDeleted": "Мэдээлэл устлаа",
+        "tableDataHasBeenSuccessfullyEdited": "хүснэгтийн мэдээлэл амжилттай засагдлаа.",
+        "formInfoSavedSuccessfully": " формын мэдээлэл амжилттай хадгалагдлаа.",
+        "errorOccurredWhileUpdating": " Шинэчлэх үед алдаа гарлаа.",
+        "pleaseSelectUpdateLine": " Шинэчлэх мөрөө сонгоно уу.",
+        "errorOccWhileDeleting": "Устгах үед алдаа гарлаа",
+        "errorMsg":"Уучлаарай алдаа гарлаа",
+        "noChangesHaveBeenReported":"Өөрчлөлт орсон мэдээлэл байхгүй байна",
     },
     dataSource:{
         "database": "Өгөгдлийн сан ",
@@ -727,7 +763,6 @@ export default {
         "_success": "Танд амжилт хүсье",
         "type": "төрөл",
         "manage_access_rights":"Хандах эрх удирдах",
-        "please_wait":"Түр хүлээнэ үү",
         "add":"Нэмэх",
         "menuSelection": "Цэс сонгох",
         "default_menu": "Анхдагч цэс",
@@ -743,6 +778,10 @@ export default {
         "_confirm": "Баталгаажуулах",
         "deleteData":"Өгөгдөлийг устгах уу?",
         "form_value":"Форм (Авах утга)",
+        "alertSelectColumns":"Харгалзах багнуудыг сонгоно уу",
+        "errorMsg":"Уучлаарай алдаа гарлаа",
+        "please_wait":"Түр хүлээнэ үү",
+
     },
     puzzle:{
         "manage_access_rights":"Хандах эрх удирдах",
@@ -824,13 +863,50 @@ export default {
     },
     moqup:{
         "elements":"Элемэнтүүд",
-        "chart":"Чарт",
+        "chart":"График",
         "save": "Хадгалах",
         "embedlink": "Embed холбоос",
         "edit":"Засах",
+        "phone":"Утас",
+        "tablet":"Таблет",
+        "computer":"Компьютер",
+        "bigComputer":"Том компьютер",
     },
     page:{
         "pageNotFound": "Хуудас олдсонгүй.",
+    },
+    alertMessage:{
+        "anErrorOccurredWhileSaving": "Хадгалах үед алдаа гарлаа!",
+        "successfullyDeleted": "Амжилттай устгалаа!",
+        "plseEnterValue": "Утга оруулна уу",
+        "updatedSuccessfully": "Амжилттай шинэчлэгдлээ",
+        "infoDeleted": "Мэдээлэл устлаа",
+        "savedSuccessfull": "Амжилттай хадгаллаа",
+        "confirm": "Баталгаажуулах",
+        "errorOccurredWhileUpdating": " Шинэчлэх үед алдаа гарлаа.",
+        "pleaseSelectUpdateLine": " Шинэчлэх мөрөө сонгоно уу.",
+        "errorOccWhileDeleting": "Устгах үед алдаа гарлаа",
+        "errorMsg":"Уучлаарай алдаа гарлаа",
+        "noChangesHaveBeenReported":"Өөрчлөлт орсон мэдээлэл байхгүй байна",
+        "pleaseWait":"Түр хүлээнэ үү!",
+        "userDeleted": "Хэрэглэгч устгагдлаа",
+        "successDeleted": "Амжилттай устгалаа!",
+        "userInformationRe": "Хэрэглэгчийн мэдээлэл сэргээгдлээ",
+        "errorRetriev": "Мэдээлэл сэргээхэд алдаа гарлаа!",
+        "notFound": "Хайлтанд илэрц олдсонгүй!",
+        "imformation_registered": "Таны мэдээлэл амжилттай бүртгэгдлээ. Түр хүлээнэ үү",
+        "errorServer": "Серверт алдаа гарлаа",
+        "errorSendingMail": "И-мэйл илгээх үед алдаа гарлаа",
+        "please_enter_value": "Утга оруулна уу",
+        "formInformationSavedSuccessfully": "Формын мэдээлэл амжилттай хадгалагдлаа.",
+        "please_enter_formula": "Томъёогоо оруулна уу",
+        "errorSaving": "Хадгалах үед алдаа гарлаа!",
+        "formIformationSavedSuccessfull": "формын мэдээлэл амжилттай хадгалагдлаа.",
+        "selectDefaultMenu": "Анхдагч цэс сонгоно уу",
+        "selectMenu": "Цэс сонгоно уу",
+        "form_value":"Форм (Авах утга)",
+        "alertSelectColumns":"Харгалзах багнуудыг сонгоно уу",
+        "please_wait":"Түр хүлээнэ үү",
     },
     crud:{
         "registration_history": "Бүртгэлийн түүх",
@@ -841,101 +917,5 @@ export default {
         "_print": "Хэвлэх",
         "download_file": "Excel файлаар татах",
     },
-    i: {
-        locale: 'mn-MN',
-        select: {
-            placeholder: 'Сонгох',
-            noMatch: 'Таарах өгөгдөл байхгүй байна',
-            loading: 'Ачааллаж байна'
-        },
-        table: {
-            noDataText: 'Өгөгдөл алга',
-            noFilteredDataText: 'No filter data',
-            confirmFilter: 'Батлах',
-            resetFilter: 'Шинээр тохируулах',
-            clearFilter: 'Бүгд'
-        },
-        datepicker: {
-            selectDate: 'Огноо сонгох',
-            selectTime: 'Цаг сонгох',
-            startTime: 'Эхлэх Цаг',
-            endTime: 'Дуусах Цаг',
-            clear: 'Цэвэрлэх',
-            ok: 'OK',
-            datePanelLabel: '[mmmm] [yyyy]',
-            month: 'Сар',
-            month1: '1-р сар',
-            month2: '2-р сар',
-            month3: '3-р сар',
-            month4: '4-р сар',
-            month5: '5-р сар',
-            month6: '6-р сар',
-            month7: '7-р сар',
-            month8: '8-р сар',
-            month9: '9-р сар',
-            month10: '10-р сар',
-            month11: '11-р сар',
-            month12: '12-р сар',
-            year: 'Жил',
-            weekStartDay: '0',
-            weeks: {
-                sun: 'Ням',
-                mon: 'Дав',
-                tue: 'Мяг',
-                wed: 'Лха',
-                thu: 'Пүр',
-                fri: 'Баа',
-                sat: 'Бяа'
-            },
-            months: {
-                m1: '1-р сар',
-                m2: '2-р сар',
-                m3: '3-р сар',
-                m4: '4-р сар',
-                m5: '5-р сар',
-                m6: '6-р сар',
-                m7: '7-р сар',
-                m8: '8-р сар',
-                m9: '9-р сар',
-                m10: '10-р сар',
-                m11: '11-р сар',
-                m12: '12-р сар'
-            }
-        },
-        transfer: {
-            titles: {
-                source: 'Эх сурвалж',
-                target: 'Оноох бай'
-            },
-            filterPlaceholder: 'Эндээс хайх',
-            notFoundText: 'Олдсонгүй'
-        },
-        modal: {
-            okText: 'OK',
-            cancelText: 'Болих'
-        },
-        poptip: {
-            okText: 'OK',
-            cancelText: 'Болих'
-        },
-        page: {
-            prev: 'Өмнөх хуудас',
-            next: 'Дараах хуудас',
-            total: 'Нийт',
-            item: 'зүйл',
-            items: 'зүйлүүд',
-            prev5: 'Өмнөх 5 хуудас',
-            next5: 'Дараагийн 5 хуудас',
-            page: '/хуудсанд',
-            goto: 'Очих хуудас',
-            p: ''
-        },
-        rate: {
-            star: 'Од',
-            stars: 'Одууд'
-        },
-        tree: {
-            emptyText: 'Өгөгдөл алга'
-        }
-    }
+    i: {...iviewLocale.i}
 }

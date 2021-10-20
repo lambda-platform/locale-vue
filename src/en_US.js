@@ -472,6 +472,11 @@ export default {
         "successDeleted": "successfullyDeleted",
         "selectDefaultMenu": "Select the default menu!",
         "selectMenu": "Please select a menu",
+        "pleaseEnterPasswordYouUCurrentlyUsing": "Please enter the password you are currently using",
+        "pleaseReEnterYourPassword": "Re-enter your password?",
+        "passwordConfirmError": "Password authentication did not match !!!",
+        "informationIsIncomplete": "The information is incomplete",
+        "trRMandatoryFieldsFillInformationLookFormAFillRequiredFieldsWithRedBorder": "There are mandatory fields to fill in the information. Look at the form and fill in the required fields with a red border!",
     },
     dataGrid:{
         "infoCourt":"Information court",

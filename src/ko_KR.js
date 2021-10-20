@@ -472,6 +472,11 @@ export default {
         "successDeleted": "성공적으로 삭제되었습니다!",
         "selectDefaultMenu": "기본 메뉴 선택",
         "selectMenu": "메뉴를 선택해주세요",
+        "pleaseEnterPasswordYouUCurrentlyUsing": "현재 사용 중인 비밀번호를 입력하세요.",
+        "pleaseReEnterYourPassword": "비밀번호를 다시 입력하시겠습니까?",
+        "passwordConfirmError": "비밀번호가 일치하지 않습니다!",
+        "informationIsIncomplete": "정보가 불완전합니다",
+        "trRMandatoryFieldsFillInformationLookFormAFillRequiredFieldsWithRedBorder": "정보를 입력해야 하는 필수 필드가 있습니다. 양식을 보고 빨간색 테두리가 있는 필수 필드를 채우십시오!",
     },
     dataGrid:{
         "infoCourt":"정보 법원",

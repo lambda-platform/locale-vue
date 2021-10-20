@@ -472,6 +472,11 @@ export default {
         "successDeleted": "Амжилттай устгалаа!",
         "selectDefaultMenu": "Анхдагч цэс сонгоно уу",
         "selectMenu": "Цэс сонгоно уу",
+        "pleaseEnterPasswordYouUCurrentlyUsing": "Одоо хэрэглэж байгаа нууц үг ээ оруулна уу",
+        "pleaseReEnterYourPassword": "Нууц үгээ дахин оруулна уу?",
+        "passwordConfirmError": "Нууц үг баталгаажуулалт таарсангүй !!!",
+        "informationIsIncomplete": "Мэдээлэл дутуу бөглөсөн байна",
+        "trRMandatoryFieldsFillInformationLookFormAFillRequiredFieldsWithRedBorder": "Мэдээлэл бөглөх явцад заавал бөглөх хэсгүүд байна. Формыг хараад улаан хүрээтэй заавал бөглөгдөх хэсгүүдийг гүйцээж бөглөнө үү!",
     },
     dataGrid:{
         "infoCourt":"Мэдээлэл шүүх",

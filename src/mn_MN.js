@@ -477,6 +477,7 @@ export default {
         "passwordConfirmError": "Нууц үг баталгаажуулалт таарсангүй !!!",
         "informationIsIncomplete": "Мэдээлэл дутуу бөглөсөн байна",
         "trRMandatoryFieldsFillInformationLookFormAFillRequiredFieldsWithRedBorder": "Мэдээлэл бөглөх явцад заавал бөглөх хэсгүүд байна. Формыг хараад улаан хүрээтэй заавал бөглөгдөх хэсгүүдийг гүйцээж бөглөнө үү!",
+
     },
     dataGrid:{
         "infoCourt":"Мэдээлэл шүүх",
@@ -762,7 +763,6 @@ export default {
         "_success": "Танд амжилт хүсье",
         "type": "төрөл",
         "manage_access_rights":"Хандах эрх удирдах",
-        "please_wait":"Түр хүлээнэ үү",
         "add":"Нэмэх",
         "menuSelection": "Цэс сонгох",
         "default_menu": "Анхдагч цэс",
@@ -780,6 +780,8 @@ export default {
         "form_value":"Форм (Авах утга)",
         "alertSelectColumns":"Харгалзах багнуудыг сонгоно уу",
         "errorMsg":"Уучлаарай алдаа гарлаа",
+        "please_wait":"Түр хүлээнэ үү",
+
     },
     puzzle:{
         "manage_access_rights":"Хандах эрх удирдах",
@@ -874,7 +876,6 @@ export default {
         "pageNotFound": "Хуудас олдсонгүй.",
     },
     alertMessage:{
-        "pageNotFound": "Хуудас олдсонгүй.",
         "anErrorOccurredWhileSaving": "Хадгалах үед алдаа гарлаа!",
         "successfullyDeleted": "Амжилттай устгалаа!",
         "plseEnterValue": "Утга оруулна уу",
@@ -896,6 +897,16 @@ export default {
         "imformation_registered": "Таны мэдээлэл амжилттай бүртгэгдлээ. Түр хүлээнэ үү",
         "errorServer": "Серверт алдаа гарлаа",
         "errorSendingMail": "И-мэйл илгээх үед алдаа гарлаа",
+        "please_enter_value": "Утга оруулна уу",
+        "formInformationSavedSuccessfully": "Формын мэдээлэл амжилттай хадгалагдлаа.",
+        "please_enter_formula": "Томъёогоо оруулна уу",
+        "errorSaving": "Хадгалах үед алдаа гарлаа!",
+        "formIformationSavedSuccessfull": "формын мэдээлэл амжилттай хадгалагдлаа.",
+        "selectDefaultMenu": "Анхдагч цэс сонгоно уу",
+        "selectMenu": "Цэс сонгоно уу",
+        "form_value":"Форм (Авах утга)",
+        "alertSelectColumns":"Харгалзах багнуудыг сонгоно уу",
+        "please_wait":"Түр хүлээнэ үү",
     },
     crud:{
         "registration_history": "Бүртгэлийн түүх",

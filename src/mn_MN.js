@@ -651,6 +651,8 @@ export default {
         "plseEnterValue": "Утга оруулна уу",
         "updatedSuccessfully": "Амжилттай шинэчлэгдлээ",
         "infoDeleted": "Мэдээлэл устлаа",
+        "tableDataHasBeenSuccessfullyEdited": "хүснэгтийн мэдээлэл амжилттай засагдлаа.",
+        "formInfoSavedSuccessfully": " формын мэдээлэл амжилттай хадгалагдлаа.",
     },
     dataSource:{
         "database": "Өгөгдлийн сан ",

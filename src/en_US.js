@@ -651,6 +651,8 @@ export default {
         "plseEnterValue": "please enter a value",
         "updatedSuccessfully": "updated succesfully",
         "infoDeleted": "information deleted",
+        "tableDataHasBeenSuccessfullyEdited": " table data has been successfully edited",
+        "formInfoSavedSuccessfully": " form information saved successfully.",
     },
     dataSource:{
         "database": "Database",

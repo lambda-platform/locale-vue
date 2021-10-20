@@ -645,6 +645,8 @@ export default {
         "plseEnterValue": "값을 입력하세요",
         "updatedSuccessfully": "업데이트됨",
         "infoDeleted": "삭제된 정보",
+        "tableDataHasBeenSuccessfullyEdited": " 테이블 데이터가 성공적으로 편집되었습니다.",
+        "formInfoSavedSuccessfully": "  양식 정보가 성공적으로 저장되었습니다.",
     },
     dataSource:{
         "database": "데이터 베이스",

@@ -477,7 +477,8 @@ export default {
         "passwordConfirmError": "Нууц үг баталгаажуулалт таарсангүй !!!",
         "informationIsIncomplete": "Мэдээлэл дутуу бөглөсөн байна",
         "trRMandatoryFieldsFillInformationLookFormAFillRequiredFieldsWithRedBorder": "Мэдээлэл бөглөх явцад заавал бөглөх хэсгүүд байна. Формыг хараад улаан хүрээтэй заавал бөглөгдөх хэсгүүдийг гүйцээж бөглөнө үү!",
-
+        "successfullySaved": "Амжилттай хадгалагдлаа.",
+        "pleaseDeleteSubDForm": "Дэд формыг устгах уу",
     },
     dataGrid:{
         "infoCourt":"Мэдээлэл шүүх",

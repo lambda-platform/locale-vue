@@ -477,6 +477,8 @@ export default {
         "passwordConfirmError": "비밀번호가 일치하지 않습니다!",
         "informationIsIncomplete": "정보가 불완전합니다",
         "trRMandatoryFieldsFillInformationLookFormAFillRequiredFieldsWithRedBorder": "정보를 입력해야 하는 필수 필드가 있습니다. 양식을 보고 빨간색 테두리가 있는 필수 필드를 채우십시오!",
+        "successfullySaved": "성공적으로 저장되었습니다.",
+        "pleaseDeleteSubDForm": "서브폼을 삭제해주세요",
     },
     dataGrid:{
         "infoCourt":"정보 법원",

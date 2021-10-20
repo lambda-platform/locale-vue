@@ -477,6 +477,8 @@ export default {
         "passwordConfirmError": "Password authentication did not match !!!",
         "informationIsIncomplete": "The information is incomplete",
         "trRMandatoryFieldsFillInformationLookFormAFillRequiredFieldsWithRedBorder": "There are mandatory fields to fill in the information. Look at the form and fill in the required fields with a red border!",
+        "successfullySaved": "Successfully saved.",
+        "pleaseDeleteSubDForm": "Please delete the sub-form",
     },
     dataGrid:{
         "infoCourt":"Information court",

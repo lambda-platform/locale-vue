@@ -453,6 +453,11 @@ export default {
         "currentPassword": "current password",
         "pleaseWriting": "please writing",
         "fromCityCenter": "From the city center",
+        "please_enter_value": "Please enter a value",
+        "formInformationSavedSuccessfully": "Form information saved successfully.",
+        "please_enter_formula": "Please enter a formula",
+        "savedSuccessfull": "Saved successfully",
+        "errorSaving": "An error occurred while saving!",
     },
     dataGrid:{
         "infoCourt":"Information court",

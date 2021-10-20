@@ -454,6 +454,11 @@ export default {
         "currentPassword": "Одоогын нууц үг",
         "pleaseWriting": "бичнэ үү",
         "fromCityCenter": "Хотын төвөөс",
+        "please_enter_value": "Утга оруулна уу",
+        "formInformationSavedSuccessfully": "Формын мэдээлэл амжилттай хадгалагдлаа.",
+        "please_enter_formula": "Томъёогоо оруулна уу",
+        "savedSuccessfull": "Амжилттай хадгаллаа",
+        "errorSaving": "Хадгалах үед алдаа гарлаа!",
     },
     dataGrid:{
         "infoCourt":"Мэдээлэл шүүх",

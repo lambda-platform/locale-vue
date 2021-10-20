@@ -453,6 +453,11 @@ export default {
         "currentPassword": "현재 비밀번호",
         "pleaseWriting": "써주세요",
         "fromCityCenter": "도심에서",
+        "please_enter_value": "값을 입력하세요",
+        "formInformationSavedSuccessfully": "양식 정보가 성공적으로 저장되었습니다.",
+        "please_enter_formula": "수식을 입력하세요.",
+        "savedSuccessfull": "공적으로 저장 되었음",
+        "errorSaving": "저장하는 동안 오류가 발생했습니다!",
     },
     dataGrid:{
         "infoCourt":"정보 법원",

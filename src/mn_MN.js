@@ -197,6 +197,13 @@ export default {
         "form":"Маягт",
         "table":"Хүснэгт",
         "original_preparation": "Эх бэлтгэл",
+        "pleaseWait":"Түр хүлээнэ үү!",
+        "_form": "Форм",
+        "value_column": "Утга багана",
+        "Custom_column":"Хэрэглэгчийн багана",
+        "list_grid": "Жагсаалт | Grid (шүүлтүүр)",
+        "Judgment_column":"Шүүлт хийх багана",
+        "form_value":"Форм (Авах утга)",
     },
     graphql:{
         "graphqlManagement":"Graphql удирдлага",
@@ -635,6 +642,9 @@ export default {
         "anErrorOccurredWhileSaving": "Хадгалах үед алдаа гарлаа!",
         "successfullyDeleted": "Амжилттай устгалаа!",
         "makeExcel": "Эксэл гаргах",
+        "plseEnterValue": "Утга оруулна уу",
+        "updatedSuccessfully": "Амжилттай шинэчлэгдлээ",
+        "infoDeleted": "Мэдээлэл устлаа",
     },
     dataSource:{
         "database": "Өгөгдлийн сан ",

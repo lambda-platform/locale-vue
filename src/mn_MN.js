@@ -204,6 +204,8 @@ export default {
         "list_grid": "Жагсаалт | Grid (шүүлтүүр)",
         "Judgment_column":"Шүүлт хийх багана",
         "form_value":"Форм (Авах утга)",
+        "InformationSuccessfullyDistributed":"Мэдээлэл амжилттай хувиарлагдлаа!",
+        "InformationReturned":"Мэдээлэл буцаагдлаа!",
     },
     graphql:{
         "graphqlManagement":"Graphql удирдлага",

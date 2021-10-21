@@ -203,7 +203,8 @@ export default {
         "list_grid": "목록 | 그리드",
         "Judgment_column ":"필터 열",
         "form_value":"형태 (가치를 취하다)",
-
+        "InformationSuccessfullyDistributed":"정보가 성공적으로 배포되었습니다!",
+        "InformationReturned":"정보가 반환되었습니다!",
     },
     graphql:{
         "graphqlManagement":"Graphql 관리",

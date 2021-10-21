@@ -181,6 +181,12 @@ export default {
         "no_information":"정보 없음",
         "date_you_added_system":"시스템에 추가된 날짜",
         "send_registration":"등록 보내기",
+        "userDeleted":"사용자가 삭제되었습니다.",
+        "errorOccurredDeleting":"삭제하는 동안 오류가 발생했습니다.",
+        "UserInformationRestored":"사용자 정보 복원.",
+        "ErrorRetrievingData":"데이터를 검색하는 동안 오류가 발생했습니다!",
+        "NoSearchResultsFound":"검색된 결과가 없습니다!",
+        "SpacesAreIncluded":"공간이 포함되어 있습니다.",
     },
     adminModule:{
         "db": "데이터베이스",

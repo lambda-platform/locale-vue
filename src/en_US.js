@@ -181,6 +181,12 @@ export default {
         "no_information":"No information",
         "date_you_added_system":"The date you were added to the system",
         "send_registration":"Send registration",
+        "userDeleted":"The user has been deleted",
+        "errorOccurredDeleting":"An error occurred while deleting.",
+        "UserInformationRestored":"User information restored.",
+        "ErrorRetrievingData":"Error retrieving data!",
+        "NoSearchResultsFound":"No search results found!",
+        "SpacesAreIncluded":"Spaces are included.",
     },
     adminModule:{
         "db":"Database",

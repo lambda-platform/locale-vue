@@ -182,6 +182,12 @@ export default {
         "no_information":"мэдээлэл алга",
         "date_you_added_system":"Таныг систэмд нэмсэн огноо",
         "send_registration":"Бүртгэлийг илгээх",
+        "userDeleted":"Хэрэглэгч устгагдлаа.",
+        "errorOccurredDeleting":"Устгах үед алдаа гарлаа.",
+        "UserInformationRestored":"Хэрэглэгчийн мэдээлэл сэргээгдлээ.",
+        "ErrorRetrievingData":"Мэдээлэл сэргээхэд алдаа гарлаа!",
+        "NoSearchResultsFound":"Хайлтанд илэрц олдсонгүй!",
+        "SpacesAreIncluded":"Хоосон зай орсон байна.",
     },
     adminModule:{
         "db":"Өгөгдлийн сан",

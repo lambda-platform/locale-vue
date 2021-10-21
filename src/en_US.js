@@ -203,7 +203,8 @@ export default {
         "list_grid": "List | Grid",
         "Judgment_column ":"Filter column",
         "form_value":"Form (take value)",
-
+        "InformationSuccessfullyDistributed":"Information successfully distributed!",
+        "InformationReturned":"Information returned!",
     },
     graphql:{
         "graphqlManagement":"Graphql management",

@@ -480,6 +480,10 @@ export default {
         "trRMandatoryFieldsFillInformationLookFormAFillRequiredFieldsWithRedBorder": "There are mandatory fields to fill in the information. Look at the form and fill in the required fields with a red border!",
         "successfullySaved": "Successfully saved.",
         "pleaseDeleteSubDForm": "Please delete the sub-form",
+        "thereZNoRightChangeInformation": "There is no right to change the information",
+        "enterCoordinatesCorrectly": "Enter the coordinates correctly",
+        "error": "error",
+        "theSiteHasNotBeenSelected": "The site has not been selected",
     },
     dataGrid:{
         "infoCourt":"Information court",

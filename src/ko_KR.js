@@ -479,6 +479,10 @@ export default {
         "trRMandatoryFieldsFillInformationLookFormAFillRequiredFieldsWithRedBorder": "정보를 입력해야 하는 필수 필드가 있습니다. 양식을 보고 빨간색 테두리가 있는 필수 필드를 채우십시오!",
         "successfullySaved": "성공적으로 저장되었습니다.",
         "pleaseDeleteSubDForm": "서브폼을 삭제해주세요",
+        "thereZNoRightChangeInformation": "정보를 변경할 권리가 없습니다",
+        "enterCoordinatesCorrectly": "좌표를 정확하게 입력하세요",
+        "error": "오류",
+        "theSiteHasNotBeenSelected": "사이트가 선택되지 않았습니다",
     },
     dataGrid:{
         "infoCourt":"정보 법원",

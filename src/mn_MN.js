@@ -479,6 +479,10 @@ export default {
         "trRMandatoryFieldsFillInformationLookFormAFillRequiredFieldsWithRedBorder": "Мэдээлэл бөглөх явцад заавал бөглөх хэсгүүд байна. Формыг хараад улаан хүрээтэй заавал бөглөгдөх хэсгүүдийг гүйцээж бөглөнө үү!",
         "successfullySaved": "Амжилттай хадгалагдлаа.",
         "pleaseDeleteSubDForm": "Дэд формыг устгах уу",
+        "thereZNoRightChangeInformation": "Мэдээлэл өөрчлөх эрх байхгүй байна",
+        "enterCoordinatesCorrectly": "Солбицол оо зөв оруулна уу",
+        "error": "Алдаа",
+        "theSiteHasNotBeenSelected": "Талбай сонгогдоогүй байнай",
     },
     dataGrid:{
         "infoCourt":"Мэдээлэл шүүх",

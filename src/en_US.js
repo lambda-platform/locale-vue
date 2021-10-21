@@ -483,6 +483,11 @@ export default {
         "enterCoordinatesCorrectly": "Enter the coordinates correctly",
         "error": "error",
         "theSiteHasNotBeenSelected": "The site has not been selected",
+        "noSiteFound": "No site found",
+        "dataNotFound": "Data not selected",
+        "pleaseCompleteFirstLine": "Please complete the first line",
+        "search": "search",
+        "values": "values",
     },
     dataGrid:{
         "infoCourt":"Information court",

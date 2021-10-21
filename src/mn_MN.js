@@ -482,7 +482,12 @@ export default {
         "thereZNoRightChangeInformation": "Мэдээлэл өөрчлөх эрх байхгүй байна",
         "enterCoordinatesCorrectly": "Солбицол оо зөв оруулна уу",
         "error": "Алдаа",
-        "theSiteHasNotBeenSelected": "Талбай сонгогдоогүй байнай",
+        "theSiteHasNotBeenSelected": "Талбай сонгогдоогүй байна",
+        "noSiteFound": "Талбай олдсонгүй",
+        "dataNotFound": "Өгөгдөл сонгогдоогүй байна",
+        "pleaseCompleteFirstLine": "Эхний мөрийг гүйцэд бөглөнө үү",
+        "search": "Хайх",
+        "values": "Утга",
     },
     dataGrid:{
         "infoCourt":"Мэдээлэл шүүх",

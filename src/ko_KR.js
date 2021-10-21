@@ -483,6 +483,11 @@ export default {
         "enterCoordinatesCorrectly": "좌표를 정확하게 입력하세요",
         "error": "오류",
         "theSiteHasNotBeenSelected": "사이트가 선택되지 않았습니다",
+        "noSiteFound": "사이트를 찾을 수 없습니다",
+        "dataNotFound": "데이터가 선택되지 않음",
+        "pleaseCompleteFirstLine": "첫 번째 줄을 완성해주세요",
+        "search": "찾다",
+        "values": "가치",
     },
     dataGrid:{
         "infoCourt":"정보 법원",

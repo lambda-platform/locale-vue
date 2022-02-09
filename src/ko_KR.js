@@ -401,6 +401,7 @@ export default {
         "data_table": "데이터 테이블",
         "idField":" ID 필드",
         "Date_generated_automatically":"자동으로 생성된 날짜",
+        "render_by_tab":"탭별 섹션 렌더링",
         "Label_location":"라벨 위치",
         "Form_width":"형태 너비",
         "Save_button_word":"버튼 단어 저장",

@@ -401,6 +401,7 @@ export default {
         "data_table": "Data table",
         "idField":"ID field",
         "Date_generated_automatically":"Date generated automatically",
+        "render_by_tab":"Section render by tab",
         "Label_location":"Label location",
         "Form_width":"Form width",
         "Save_button_word":"Save button word",

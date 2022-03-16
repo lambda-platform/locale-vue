@@ -622,6 +622,7 @@ export default {
         "withOneClick":"한 번의 클릭으로",
         "highlightChanges":"하이라이트 변경",
         "saveChangesBulk":"변경 사항을 일괄 저장",
+        "gbExcelImport":"Excel import",
         "appearance":"사용자 인터페이스",
         "dataTable":"데이터 테이블",
         "filter":"필터",

@@ -622,6 +622,7 @@ export default {
         "withOneClick": "with one click",
         "highlightChanges": "Highlight changes",
         "saveChangesBulk": "Save changes in bulk",
+        "gbExcelImport":"Excel import",
         "appearance": "Appearance",
         "dataTable": "Data table",
         "filter": "Filter",

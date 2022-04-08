@@ -623,6 +623,13 @@ export default {
         "withOneClick": "нэг товшилтоор",
         "highlightChanges": "Өөрчлөлтийг ялгаж харуулах",
         "saveChangesBulk": "Өөрчлөлтийг бөөнөөр хадгалах",
+        "gbExcelImport":"Excel import",
+        "excelImportFieldName":"Excel багана нэр",
+        "excelImportFormTitle":"Excel оруулах үеийн тохиргоо",
+        "excelUploadSampleFile":"Жишээ файл оруулах",
+        "excelUploadRowtoStart":"Excel файл уншиж эхлэх мөрийн дугаар",
+        "excelUploadCustomUrl":"Excel файл хуулах үед хэрэглэгдэх custom холбоос",
+        "excelImportModalTitle":"Excel файлаас өгөгдөл оруулах",
         "appearance": "Харагдах байдал",
         "dataTable": "Өгөгдлийн хүснэгт",
         "filter": "Шүүлтүүр",
@@ -935,6 +942,7 @@ export default {
         "re_call": "Дахин ачааллах",
         "_print": "Хэвлэх",
         "download_file": "Excel файлаар татах",
+        "excelUpload": "Excel файлаас өгөгдөл оруулах",
     },
     i: {...iviewLocale.i}
 }

@@ -34,7 +34,7 @@ export const loadLanguageAsync = (lang) => {
         return Promise.resolve(setI18nLanguage(lang))
     }
 
-    if (window.lambda.static_words[lang]) {
+    if (window.lambda.hasOwnProperty("static_words") && window.lambda.static_words[lang]) {
         i18n.setLocaleMessage(lang, {auth: window.lambda.static_words[lang]});
         loadedLanguages.push(lang)
         return setI18nLanguage(lang)
@@ -42,7 +42,6 @@ export const loadLanguageAsync = (lang) => {
 
         return import(/* webpackChunkName: "[request]" */ `./${lang}`).then(
             messages => {
-
                 i18n.setLocaleMessage(lang, messages.default)
                 loadedLanguages.push(lang)
                 return setI18nLanguage(lang)
